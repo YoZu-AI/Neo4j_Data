@@ -1,0 +1,3 @@
+LOAD CSV WITH HEADERS FROM 'file:///Class_6_Science_NCERT//Entity_Definition.csv' AS row
+MATCH (e:Entity {text: row.Entity})
+SET e.definition = row.Definition
