@@ -1,6 +1,5 @@
-
-# chage it your file path
-LOAD CSV WITH HEADERS FROM 'file:///Class_6_Science_NCERT//definition_images.csv' AS row
-MATCH (e:Entity {text: row.Entity})
-SET e.images = row.Images
-SET e.definition = row.Definition
+// # chage it your file path
+LOAD CSV WITH HEADERS FROM 'file:///Neo4j-Data//Class_7_Science_NCERT//science_7_Entity_Definition_Images.csv' AS row
+MATCH (e:Entity {text: COALESCE(row.Entity, '')})
+SET e.images =COALESCE (row.Images, '')
+SET e.definition = COALESCE(row.Definition,'')
