@@ -3,8 +3,8 @@ WITH row WHERE NOT row.entity_1_type IS NULL AND NOT row.entity_2_type IS NULL
 // Filter out rows with null values in entity_1_type or entity_2_type
 
 MERGE (sentence:Sentence {text: COALESCE(row.sentence, '')})
-MERGE (entity1:Entity {text: COALESCE(row.entity_1, ''), type: COALESCE(row.entity_1_type, '')})
-MERGE (entity2:Entity {text: COALESCE(row.entity_2, ''), type: COALESCE(row.entity_2_type, '')})
+MERGE (entity1:Entity {text: COALESCE(row.entity1, ''), type: COALESCE(row.entity_1_type, '')})
+MERGE (entity2:Entity {text: COALESCE(row.entity2, ''), type: COALESCE(row.entity_2_type, '')})
 
 MERGE (sentence)-[:HAS_ENTITY]->(entity1)
 MERGE (sentence)-[:HAS_ENTITY]->(entity2)
