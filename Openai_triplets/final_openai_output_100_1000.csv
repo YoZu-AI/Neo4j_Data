@@ -1,0 +1,901 @@
+entity1,entity_1_type,entity2,entity_2_type,relation,sentence
+Leaves,Plant part,Chlorophyll containing cells,Cell type,Located in,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Photosynthesis,Biological process,Chlorophyll containing cells,Cell type,Occurs in,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Sunlight,Physical entity,Photosynthesis,Biological process,Required for,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Carbon dioxide,Chemical compound,Photosynthesis,Biological process,Reactant for,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Water,Chemical compound,Photosynthesis,Biological process,Reactant for,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Carbohydrates,Chemical compound,Photosynthesis,Biological process,Product of,"During photosynthesis, chlorophyll containing cells of leaves (Fig. 1.2), in the presence of sunlight, use carbon dioxide and water to synthesise carbohydrates (Fig."
+Equation,Representation,Process,Biological process,Described by,The process can be represented in an equation: During the process oxygen is released.
+Process,Biological process,Oxygen,Element,Released during,The process can be represented in an equation: During the process oxygen is released.
+Leaves,Plant organ,Starch,Biopolymer,Presence indicates occurrence of,The presence of starch in leaves indicates the occurrence of photosynthesis.
+Photosynthesis,Biological process,Leaves,Plant organ,Occurs in,The presence of starch in leaves indicates the occurrence of photosynthesis.
+Plants,Organism,Leaves,Plant part,Have,"    sunlight chlorophyll Carbon dioxide water Carbohydrate oxygen Boojho has observed some plants with deep red, violet or brown leaves."
+Deep red,Color,Leaves,Plant part,Color of,"    sunlight chlorophyll Carbon dioxide water Carbohydrate oxygen Boojho has observed some plants with deep red, violet or brown leaves."
+Violet,Color,Leaves,Plant part,Color of,"    sunlight chlorophyll Carbon dioxide water Carbohydrate oxygen Boojho has observed some plants with deep red, violet or brown leaves."
+Brown,Color,Leaves,Plant part,Color of,"    sunlight chlorophyll Carbon dioxide water Carbohydrate oxygen Boojho has observed some plants with deep red, violet or brown leaves."
+Boojho,Person,Plants,Organism,Observed,"    sunlight chlorophyll Carbon dioxide water Carbohydrate oxygen Boojho has observed some plants with deep red, violet or brown leaves."
+Leaves,Plant organ,Photosynthesis,Biological process,Carry out,He wants to know whether these leaves also carry out photosynthesis.
+Leaf,Plant organ,Guard cells,Plant cell type,Located in,Fig. 1.2 (a) Leaf Guard cells (c) Stoma Stomatal opening (b) Section of a leaf Fig.
+Guard cells,Plant cell type,Stoma,Plant organ,Surrounds,Fig. 1.2 (a) Leaf Guard cells (c) Stoma Stomatal opening (b) Section of a leaf Fig.
+Stoma,Plant organ,Stomatal opening,Plant structure,Opening of,Fig. 1.2 (a) Leaf Guard cells (c) Stoma Stomatal opening (b) Section of a leaf Fig.
+Leaf,Plant organ,Section,Plant structure,Part of,Fig. 1.2 (a) Leaf Guard cells (c) Stoma Stomatal opening (b) Section of a leaf Fig.
+Photosynthesis,Biological process,Light energy,Energy type,Converted into,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Photosynthesis,Biological process,Carbon dioxide,Gas,Reactant,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Photosynthesis,Biological process,Oxygen,Gas,Product,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Photosynthesis,Biological process,Chlorophyll,Pigment,Involved in,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Photosynthesis,Biological process,Water,Compound,Reactant,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Stoma,Cellular structure,Leaves,Plant organ,Located in,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Guard cells,Cell type,Stoma,Cellular structure,Surrounds,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Carbohydrates,Compound,Carbon,Element,Contains,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Carbohydrates,Compound,Hydrogen,Element,Contains,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Carbohydrates,Compound,Oxygen,Element,Contains,"1.3   Diagram showing photosynthesis Light energy Carbon dioxide Oxygen Chlorophyll in leaf Water and minerals Stoma Guard Cells Chlorophyll Rationalised 2023-24  SCIENCE 4 Fig. 1.4  Leaves of various colours carbohydrates are made of carbon, hydrogen and oxygen."
+Proteins,Biochemical compound,Nitrogen,Element,Contain,But proteins are nitrogenous substances which contain nitrogen.
+Plants,Organism,Nitrogen,Element,Obtain from,From where do the plants obtain nitrogen?
+Nitrogen,Element,Air,Gas,Present in abundance,Recall that nitrogen is present in abundance in gaseous form in the air.
+Plants,Organism,Nitrogen,Element,Absorbs,"However, plants cannot absorb nitrogen in this form."
+Soil,Natural resource,Bacteria,Microorganism,Contains,Soil has certain bacteria that convert gaseous nitrogen into a usable form and release it into the soil.
+Nitrogen,Element,Gaseous form,State of matter,Converted into,Soil has certain bacteria that convert gaseous nitrogen into a usable form and release it into the soil.
+Bacteria,Microorganism,Usable form of nitrogen,Chemical compound,Converts into,Soil has certain bacteria that convert gaseous nitrogen into a usable form and release it into the soil.
+Usable form of nitrogen,Chemical compound,Soil,Natural resource,Released into,Soil has certain bacteria that convert gaseous nitrogen into a usable form and release it into the soil.
+Plants,Organism,Water,Chemical compound,Absorbed by,These are absorbed by the plants along with water.
+Farmers,Occupation,Soil,Natural resource,Adding to,"Also, you might have seen farmers adding fertilisers rich in nitrogen to the soil."
+Fertilisers,Product,Soil,Natural resource,Added to,"Also, you might have seen farmers adding fertilisers rich in nitrogen to the soil."
+Nitrogen,Element,Fertilisers,Product,Rich in,"Also, you might have seen farmers adding fertilisers rich in nitrogen to the soil."
+Plants,Organism,Nitrogen,Element,Requirement for,In this way the plants fulfil their requirements of nitrogen along with the other constituents.
+Plants,Organism,Constituents,Chemical compound,Requirement for,In this way the plants fulfil their requirements of nitrogen along with the other constituents.
+Plants,Organism,Proteins,Macromolecule,Synthesise,Plants can then synthesise proteins and vitamins.
+Plants,Organism,Vitamins,Organic compound,Synthesise,Plants can then synthesise proteins and vitamins.
+Plants,Organism type,Chlorophyll,Substance,Lack,1.3 OTHER MODES OF NUTRITION IN PLANTS There are some plants which do not have chlorophyll.
+Plants,Organism,Food,Product,Depend on,Like humans and animals such plants depend on the food produced by other plants.
+Plants,Organism,Other plants,Organism,Depend on,Like humans and animals such plants depend on the food produced by other plants.
+"Slimy, green patches",Physical appearance,Ponds,Water body,Located in,"Since it deprives the host of valuable nutrients, You often see slimy, green patches in ponds or stagnant water bodies."
+"Slimy, green patches",Physical appearance,Stagnant water bodies,Water body,Located in,"Since it deprives the host of valuable nutrients, You often see slimy, green patches in ponds or stagnant water bodies."
+Host,Living organism,Nutrients,Valuable resource,Deprived of,"Since it deprives the host of valuable nutrients, You often see slimy, green patches in ponds or stagnant water bodies."
+Organisms,Living beings,Algae,Type of organism,Called by,These are generally formed by the growth of organisms called algae.
+Algae,Type of organism,Chloroplasts,Organelle,Forms,These are generally formed by the growth of organisms called algae.
+Chloroplasts,Organelle,Chlorophyll,Pigment,Contains,They contain chlorophyll which gives them the green colour.
+Algae,Organism,Food,Nutrient,Prepares by photosynthesis,Algae can also prepare their own food by photosynthesis.
+Photosynthesis,Biological process,Algae,Organism,Occurs in,Algae can also prepare their own food by photosynthesis.
+Leaves,Plant part,Iodine,Chemical compound,Tested with,The Perform iodine test with the leaves of both the plants as you did in Class VI.
+Plants,Organism,Leaves,Plant part,Have,The Perform iodine test with the leaves of both the plants as you did in Class VI.
+Class VI,Educational level,Iodine test,Experiment,Performed with,The Perform iodine test with the leaves of both the plants as you did in Class VI.
+Plants,Organism,Class VI,Educational level,Studied in,The Perform iodine test with the leaves of both the plants as you did in Class VI.
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,Record your results.
+Chloroplasts,Organelle,Thylakoids,Membrane,Contains,Record your results.
+Thylakoids,Membrane,Chloroplasts,Organelle,Within,Record your results.
+Photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,Record your results.
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,Record your results.
+Pot,Object,Leaves,Plant part,Part of,"Now leave the pot which was earlier kept in the dark, in the sunlight for 3 – 4 days and perform the iodine test again on its leaves."
+Sunlight,Physical agent,Pot,Object,Kept in,"Now leave the pot which was earlier kept in the dark, in the sunlight for 3 – 4 days and perform the iodine test again on its leaves."
+Iodine test,Chemical test,Leaves,Plant part,Performed on,"Now leave the pot which was earlier kept in the dark, in the sunlight for 3 – 4 days and perform the iodine test again on its leaves."
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,Record your observations in your notebook.
+Thylakoids,Membrane,Chloroplasts,Organelle,within,Record your observations in your notebook.
+Photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,Record your observations in your notebook.
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,Record your observations in your notebook.
+Leaves,Plant part,Chlorophyll,Chemical compound,Contains,The leaves other than green also have chlorophyll.
+Red pigments,Pigment,Green color,Color,Mask,"The large amount of red, brown and other pigments mask the green colour (Fig. 1.4)."
+Brown pigments,Pigment,Green color,Color,Mask,"The large amount of red, brown and other pigments mask the green colour (Fig. 1.4)."
+Leaves,Plant organ,Photosynthesis,Biological process,Occurs in,Photosynthesis takes place in these leaves also.
+Cuscuta,Plant,Parasite,Organism,Is called,Rationalised 2023-24  NUTRITION IN PLANTS 5 Cuscuta is called the parasite.
+Insect,Animal,Pitcher,Plant part,Lands in,"When an insect lands in the pitcher, the lid closes and the trapped insect gets entangled into the hair."
+Lid,Plant part,Pitcher,Plant part,Closes on,"When an insect lands in the pitcher, the lid closes and the trapped insect gets entangled into the hair."
+Trapped insect,Animal,Pitcher,Plant part,Gets entangled into,"When an insect lands in the pitcher, the lid closes and the trapped insect gets entangled into the hair."
+Hair,Plant part,Trapped insect,Animal,Entangles the,"When an insect lands in the pitcher, the lid closes and the trapped insect gets entangled into the hair."
+Lid,Object,Insect,Animal,Traps,The lid closes and the insect is trapped.
+Insect,Animal,Digestive juices,Secretion,Secreted in,The insect is digested by the digestive juices secreted in the pitcher and its nutrients are absorbed.
+Pitcher,Plant organ,Digestive juices,Secretion,Contained in,The insect is digested by the digestive juices secreted in the pitcher and its nutrients are absorbed.
+Nutrients,Chemical compound,Insect,Animal,Absorbed from,The insect is digested by the digestive juices secreted in the pitcher and its nutrients are absorbed.
+Insect-eating plants,Plant type,Insects,Animal type,Prey on,Such insect-eating plants are called insectivorous plants.
+Insectivorous plants,Plant type,Called,Verb,Described as,Such insect-eating plants are called insectivorous plants.
+Plants,Organism,Nutrients,Chemical compound,Require,Is it possible that such plants do not get all the required nutrients from the soil in which they grow?
+Soil,Environment,Plants,Organism,Provide,Is it possible that such plants do not get all the required nutrients from the soil in which they grow?
+Cuscuta,Plant species,Host plant,Plant species,On,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Mosquitoes,Insect,Blood,Bodily fluid,Suck,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Bed bugs,Insect,Blood,Bodily fluid,Suck,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Lice,Insect,Blood,Bodily fluid,Suck,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Leeches,Annelid,Blood,Bodily fluid,Suck,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Mosquitoes,Insect,Parasites,Organism type,Considered as,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Bed bugs,Insect,Parasites,Organism type,Considered as,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Lice,Insect,Parasites,Organism type,Considered as,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Leeches,Annelid,Parasites,Organism type,Considered as,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Blood,Bodily fluid,Humans,Organism type,Belongs to,"Fig. 1.5  Cuscuta (Amarbel) on host plant Paheli wants to know whether mosquitoes, bed bugs, lice and leeches that suck our blood are also parasites."
+Pitcher plant,Plant species,Leaf,Plant part,Modified into pitcher,Fig. 1.6  Pitcher plant showing lid and pitcher Leaf modified into pitcher Lid Boojho is confused.
+Pitcher plant,Plant species,Lid,Plant part,Present on pitcher,Fig. 1.6  Pitcher plant showing lid and pitcher Leaf modified into pitcher Lid Boojho is confused.
+Lid,Plant part,Pitcher,Plant part,Present on,Fig. 1.6  Pitcher plant showing lid and pitcher Leaf modified into pitcher Lid Boojho is confused.
+Boojho,Person,Confused,Emotion,Experiencing,Fig. 1.6  Pitcher plant showing lid and pitcher Leaf modified into pitcher Lid Boojho is confused.
+Pitcher plant,Plant species,Green,Color,Has,"If the pitcher plant is green and carries out photosynthesis, then why does it feed on insects?"
+Pitcher plant,Plant species,Photosynthesis,Biological process,Carries out,"If the pitcher plant is green and carries out photosynthesis, then why does it feed on insects?"
+Pitcher plant,Plant species,Insects,Animal,Feeds on,"If the pitcher plant is green and carries out photosynthesis, then why does it feed on insects?"
+Plants,Organism,Green or other color,Characteristic,May be,Such plants may be green or of some other colour.
+Plant,Organism,Fig. 1.6,Image,Depicted in,Look at the plant in Fig. 1.6.
+Pitcher-like structure,Plant structure,Leaf,Plant organ,Modified part of,The pitcher-like or jug-like structure is the modified part of leaf.
+Pitcher,Container,Saprotrophs,Organism,Contained in,Inside the pitcher there are 1.4 SAPROTROPHS You might have seen packets of mushrooms sold in the vegetable Rationalised 2023-24  SCIENCE 6 market.
+Fluffy patches,Growth,Moist soils,Environment,Growing in,You may have also seen fluffy umbrella-like patches growing in moist soils or on rotting wood during the rainy season (Fig. 1.7).
+Fluffy patches,Growth,Rotting wood,Environment,Growing on,You may have also seen fluffy umbrella-like patches growing in moist soils or on rotting wood during the rainy season (Fig. 1.7).
+Rainy season,Season,Moist soils,Environment,Occurs during,You may have also seen fluffy umbrella-like patches growing in moist soils or on rotting wood during the rainy season (Fig. 1.7).
+Boojho,Person,Organisms,Living being,Inquiry,Boojho wants to know how these organisms acquire nutrients.
+Nutrients,Substance,Organisms,Living being,Acquire,Boojho wants to know how these organisms acquire nutrients.
+They,Pronoun,Animals,Organism,Comparison,They do not have mouths like animals do.
+Mouths,Anatomical structure,Animals,Organism,Possession,They do not have mouths like animals do.
+They,Pronoun,Green plants,Organism,Comparison,They are not like green plants as they lack chlorophyll and cannot make food by photosynthesis.
+Green plants,Organism,Chlorophyll,Molecule,Contains,They are not like green plants as they lack chlorophyll and cannot make food by photosynthesis.
+Chlorophyll,Molecule,Photosynthesis,Biological process,Involved in,They are not like green plants as they lack chlorophyll and cannot make food by photosynthesis.
+Bread,Food item,Water,Liquid,Moistened with,Activity 1.2 Take a piece of bread and moisten it with water.
+Fig. 1.8,Figure,Fluffy patches,Visual appearance,Appear on,Leave it in a moist warm place for 2–3 days or until fluffy patches appear on them (Fig. 1.8).
+Patches,Object,Microscope,Instrument,Observed with,Observe the patches under a microscope or a magnifying glass.
+Patches,Object,Magnifying glass,Instrument,Observed with,Observe the patches under a microscope or a magnifying glass.
+Cotton-like threads,Physical object,Piece of bread,Food item,Spread on,You will see cotton-like threads spread on the piece of bread.
+Paheli,Person,Shoes,Object,Possessed by,"Paheli is keen to know whether her beautiful shoes, which she wore on special occasions, were spoiled by fungi during the rainy season."
+Fungi,Organism,Shoes,Object,Caused damage to,"Paheli is keen to know whether her beautiful shoes, which she wore on special occasions, were spoiled by fungi during the rainy season."
+Rainy season,Season,Fungi,Organism,Occurred during,"Paheli is keen to know whether her beautiful shoes, which she wore on special occasions, were spoiled by fungi during the rainy season."
+She,Person,Fungi,Organism,Appearance,She wants to know how fungi appear suddenly during the rainy season.
+Rainy season,Season,Fungi,Organism,Occurs during,She wants to know how fungi appear suddenly during the rainy season.
+Organisms,Living being,Fungi,Organism type,Belongs to,These organisms are called fungi.
+They,Pronoun,Bread,Food,Absorb nutrients from,They absorb the nutrients from the bread.
+Organisms,Living beings,Nutrients,Substance,Take in,This mode of nutrition in which organisms take in nutrients from dead and decaying matter is called saprotrophic nutrition.
+Saprotrophic nutrition,Mode of nutrition,Organisms,Living beings,Involves,This mode of nutrition in which organisms take in nutrients from dead and decaying matter is called saprotrophic nutrition.
+Saprotrophs,Organism type,Mode of nutrition,Characteristic,have,Such organisms with saprotrophic mode of nutrition are called saprotrophs.
+Fungi,Organism,Pickles,Food item,Grows on,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Fungi,Organism,Leather,Material,Grows on,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Fungi,Organism,Clothes,Material,Grows on,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Hot and humid weather,Weather condition,Pickles,Food item,Left in,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Hot and humid weather,Weather condition,Leather,Material,Left in,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Hot and humid weather,Weather condition,Clothes,Material,Left in,"Fungi also grow on pickles, leather, clothes and other articles that are left in hot and humid weather for long time."
+Fungal spores,Microorganism,Air,Environment,Present in,The fungal spores are generally present  in the air.
+Fig. 1.8,Image,Bread,Food item,Depicted in,When they land on Fig. 1.8  Fungi growing on bread Fig.
+Fungi,Organism,Bread,Food item,Growing on,When they land on Fig. 1.8  Fungi growing on bread Fig.
+Packet of mushrooms,Food item,Decayed material,Organic matter,Growing on,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Mushroom,Fungi,Decayed material,Organic matter,Growing on,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Farmers,Occupation,Fields,Land,Using for,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Manure,Organic matter,Fields,Land,Spread on,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Fertilisers,Chemical compounds,Fields,Land,Spread on,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Gardeners,Occupation,Lawns,Land,Using on,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Gardeners,Occupation,Pots,Containers,Using in,"1.7  Packet of mushrooms, a mushroom growing on decayed material Rationalised 2023-24  NUTRITION IN PLANTS 7 1.5 HOW NUTRIENTS ARE REPLENISHED IN THE SOIL Have you seen farmers spreading manure or fertilisers in the fields, or gardeners using them in lawns or in pots?"
+Plants,Organism,Minerals,Inorganic compound,Absorb from,You learnt that plants absorb minerals and nutrients from the soil.
+Plants,Organism,Nutrients,Organic compound,Absorb from,You learnt that plants absorb minerals and nutrients from the soil.
+Soil,Environment,Minerals,Inorganic compound,Provide to,You learnt that plants absorb minerals and nutrients from the soil.
+Soil,Environment,Nutrients,Organic compound,Provide to,You learnt that plants absorb minerals and nutrients from the soil.
+Amounts,Physical quantity,Soil,Natural resource,Located in/associated with,"So, their amounts in the soil keep on declining."
+Declining,Process,Amounts,Physical quantity,Describes the change in amount over time,"So, their amounts in the soil keep on declining."
+Fertilisers,Product,Manures,Product,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Fertilisers,Product,Nitrogen,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Fertilisers,Product,Potassium,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Fertilisers,Product,Phosphorous,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Manures,Product,Nitrogen,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Manures,Product,Potassium,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Manures,Product,Phosphorous,Nutrient,Contain,"Fertilisers and manures contain nutrients such as nitrogen, potassium, phosphorous, etc."
+Nutrients,Substance,Soil,Natural resource,Added to,These nutrients need to be added from time to time to enrich the soil.
+Plants,Organism,Nutrient requirement,Requirement,Fulfil,We can grow plants and keep them healthy if we can fulfil the nutrient requirement of plants.
+Crop plants,Plant type,Nitrogen,Element,Absorb,Usually crop plants absorb a lot of nitrogen and the soil becomes deficient in nitrogen.
+Soil,Environmental component,Nitrogen,Element,Becomes deficient in,Usually crop plants absorb a lot of nitrogen and the soil becomes deficient in nitrogen.
+Nitrogen gas,Chemical compound,Air,Atmosphere,Present in,"You learnt that though nitrogen gas is available in plenty in the air, plants cannot use it in the manner they can use carbon dioxide."
+Plants,Organism,Nitrogen gas,Chemical compound,Cannot use,"You learnt that though nitrogen gas is available in plenty in the air, plants cannot use it in the manner they can use carbon dioxide."
+Carbon dioxide,Chemical compound,Plants,Organism,Can use in a manner,"You learnt that though nitrogen gas is available in plenty in the air, plants cannot use it in the manner they can use carbon dioxide."
+They,Unknown,Nitrogen,Element,Needed in,They need nitrogen in a soluble form.
+Nitrogen,Element,Soluble form,Unknown,Needed in,They need nitrogen in a soluble form.
+Rhizobium,Bacterium,Atmospheric nitrogen,Chemical compound,Converts into usable form,The bacterium called Rhizobium can take atmospheric nitrogen and convert it into a usable form.
+Rhizobium,Bacterium,Food,Nutrient,Cannot make,But Rhizobium cannot make its own food.
+Plants,Organism,Bacteria,Organism,Interact with,"In return, the plants provide food and shelter to the bacteria."
+Boojho,Person,Grandfather,Person,Related,They can reduce the use of nitrogenous fertiliser where leguminous Boojho says once his grandfather told him that his wheat fields were spoiled by a fungus.
+Nitrogenous fertiliser,Chemical compound,Use,Action,Reduces,They can reduce the use of nitrogenous fertiliser where leguminous Boojho says once his grandfather told him that his wheat fields were spoiled by a fungus.
+Leguminous,Plant type,Fields,Area,Grown in,They can reduce the use of nitrogenous fertiliser where leguminous Boojho says once his grandfather told him that his wheat fields were spoiled by a fungus.
+Fungus,Organism,Wheat fields,Area,Caused spoilage in,They can reduce the use of nitrogenous fertiliser where leguminous Boojho says once his grandfather told him that his wheat fields were spoiled by a fungus.
+Fungi,Organism type,Diseases,Medical condition,Cause,He wants to know if fungi cause diseases also.
+Paheli,Person,Him,Person,Told,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Yeast,Organism,Type of,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Mushrooms,Organism,Type of,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Plants,Organism,Cause diseases in,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Animals,Organism,Cause diseases in,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Humans,Organism,Cause diseases in,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Diseases,Condition,Plants,Organism,Caused by,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Diseases,Condition,Animals,Organism,Caused by,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Diseases,Condition,Humans,Organism,Caused by,"Paheli told him that many fungi like yeast and mushrooms are useful, but some fungi cause diseases in plants, animals including humans."
+Fungi,Organism,Medicines,Product,Used as,Some fungi are also used as medicines.
+Organisms,Living beings,Shelter,Living space,Share,Some organisms live together and share both shelter and nutrients.
+Organisms,Living beings,Nutrients,Food,Share,Some organisms live together and share both shelter and nutrients.
+Shelter,Living space,Nutrients,Food,Shared by,Some organisms live together and share both shelter and nutrients.
+Fungi,Organism,Roots,Plant part,Live inside,"For example, certain fungi live inside the roots of plants."
+Plants,Organism,Fungus,Organism,Interact,"The plants provide nutrients to the fungus and, in return, the fungus provides water and certain nutrients."
+Nutrients,Substance,Plants,Organism,Provided by,"The plants provide nutrients to the fungus and, in return, the fungus provides water and certain nutrients."
+Water,Substance,Fungus,Organism,Provided by,"The plants provide nutrients to the fungus and, in return, the fungus provides water and certain nutrients."
+Certain nutrients,Substance,Fungus,Organism,Provided by (in addition to water),"The plants provide nutrients to the fungus and, in return, the fungus provides water and certain nutrients."
+Chlorophyll-containing partner,Alga,Lichens,Organism,Live together,"In organisms called lichens, a chlorophyll-containing partner, which is an alga, and a fungus live together."
+Fungus,Fungus,Lichens,Organism,Live together,"In organisms called lichens, a chlorophyll-containing partner, which is an alga, and a fungus live together."
+Fungus,Organism,Alga,Organism,"Provides shelter, water and minerals to","The fungus provides shelter, water and minerals to the alga and, in return, the alga prepares and provides food to the fungus."
+Alga,Organism,Fungus,Organism,Prepares and provides food to,"The fungus provides shelter, water and minerals to the alga and, in return, the alga prepares and provides food to the fungus."
+Green plants,Organism,Food,Product,Synthesise by, Green plants synthesise food for themselves by the process of photosynthesis.
+Photosynthesis,Biological process,Green plants,Organism,Process occurs in, Green plants synthesise food for themselves by the process of photosynthesis.
+Cuscuta,Plant,Parasites,Organism,Is a, Plants like Cuscuta are parasites.
+Plants,Organism,Carbon dioxide,Chemical substance,Used for synthesis of food," Plants use simple chemical substances like carbon dioxide, water and minerals for the synthesis of food."
+Plants,Organism,Water,Chemical substance,Used for synthesis of food," Plants use simple chemical substances like carbon dioxide, water and minerals for the synthesis of food."
+Plants,Organism,Minerals,Chemical substance,Used for synthesis of food," Plants use simple chemical substances like carbon dioxide, water and minerals for the synthesis of food."
+Synthesis of food,Biological process,Plants,Organism,Occurs in," Plants use simple chemical substances like carbon dioxide, water and minerals for the synthesis of food."
+Chlorophyll,Molecule,Photosynthesis,Biological process,Essential requirement," Chlorophyll, water, carbon dioxide and sunlight are the essential requirements for photosynthesis."
+Water,Molecule,Photosynthesis,Biological process,Essential requirement," Chlorophyll, water, carbon dioxide and sunlight are the essential requirements for photosynthesis."
+Carbon dioxide,Molecule,Photosynthesis,Biological process,Essential requirement," Chlorophyll, water, carbon dioxide and sunlight are the essential requirements for photosynthesis."
+Sunlight,Energy source,Photosynthesis,Biological process,Essential requirement," Chlorophyll, water, carbon dioxide and sunlight are the essential requirements for photosynthesis."
+Carbohydrates,Chemical substance,Photosynthesis,Biological process,Product of, Complex chemical substances such as carbohydrates are the products of photosynthesis.
+Solar energy,Physical phenomenon,Chlorophylls,Pigment,Absorbed by, Solar energy is absorbed by the chlorophylls present in leaves/plants.
+Leaves,Plant part,Chlorophylls,Pigment,Present in, Solar energy is absorbed by the chlorophylls present in leaves/plants.
+Plants,Organism,Leaves,Plant part,Part of, Solar energy is absorbed by the chlorophylls present in leaves/plants.
+Oxygen,Element,Photosynthesis,Biological process,Produced during, Oxygen is produced during photosynthesis.
+Oxygen,Element,Living organisms,Organism type,Utilized by, Oxygen released in photosynthesis is utilised by living organisms for their survival.
+Photosynthesis,Biological process,Living organisms,Organism type,Source of oxygen, Oxygen released in photosynthesis is utilised by living organisms for their survival.
+Fungi,Organism,Dead and decaying matter,Food source,Derive nutrition from, Many fungi derive nutrition from dead and decaying matter.
+They,Pronoun,Saprotrophs,Organism,Are,They are saprotrophs.
+Plants,Organism type,Heterotrophs,Organism type,Not dependent, A few plants and all animals are dependent on others for their nutrition and are called heterotrophs.
+Animals,Organism type,Heterotrophs,Organism type,Dependent on, A few plants and all animals are dependent on others for their nutrition and are called heterotrophs.
+Nutrition,Concept,Heterotrophs,Organism type,Dependent on, A few plants and all animals are dependent on others for their nutrition and are called heterotrophs.
+Pulses,Food item,Leguminous plants,Plant type,Obtained from,Most of the pulses (dals) are obtained from leguminous plants.
+Plants,Organism type,Autotrophs,Organism type,Most of are,In this chapter you learnt that most of the plants are autotrophs.
+Plants,Organism type,Parasitic plants,Organism type,Some are,Only a few plants are parasitic or saprotrophic.
+Plants,Organism type,Saprotrophic plants,Organism type,Some are,Only a few plants are parasitic or saprotrophic.
+Animals,Organism type,Heterotrophs,Category,Categorized as,All animals  are categorised as heterotrophs since they depend on plants and other animals for food.
+Plants,Organism type,Food,Resource,Depended on by animals,All animals  are categorised as heterotrophs since they depend on plants and other animals for food.
+Animals,Organism type,Food,Resource,Depended on by animals,All animals  are categorised as heterotrophs since they depend on plants and other animals for food.
+Insectivorous plants,Plant type,Partial heterotrophs,Nutrition type,Are,Can we say that the insectivorous plants are partial heterotrophs?
+Parasite,Organism type,Host,Organism type,Feeds on,Distinguish between a parasite and a saprotroph.
+Saprotroph,Organism type,Dead organic matter,Substrate type,Feeds on,Distinguish between a parasite and a saprotroph.
+Pigment,Substance,Photosynthesis,Biological process,Involved in,(c) In photosynthesis solar energy is absorbed by the pigment called ___________.
+Pores,Structure,Leaves,Plant part,Located in/On,(iii) The pores through which leaves exchange gases.
+Gases,Substance,Leaves,Plant part,Exchanged through,(iii) The pores through which leaves exchange gases.
+(a) Cuscuta,Plant genus,Parasite,Organism type,Example of,Tick the correct answer: (a) Cuscuta is an example of: (i) autotroph (ii) parasite (iii) saprotroph (iv) host (b) The plant which traps and feeds on insects is: (i) Cuscuta (ii) china rose (iv) pitcher plant (iv) rose 9.
+(b) Pitcher plant,Plant species,Insects,Organism type,Feeds on,Tick the correct answer: (a) Cuscuta is an example of: (i) autotroph (ii) parasite (iii) saprotroph (iv) host (b) The plant which traps and feeds on insects is: (i) Cuscuta (ii) china rose (iv) pitcher plant (iv) rose 9.
+Leaves,Plant part,Atmosphere,Environment,Absorbs carbon dioxide.,Choose the correct option from the following: Plants take carbon dioxide from the atmosphere mainly through their: (i) roots (ii) stem (iii) flowers (iv) leaves 13.
+Farmers,Occupation,Fruits,Crop,Grow,Why do farmers grow many fruits and vegetable crops inside large green houses?
+Farmers,Occupation,Vegetable crops,Crop,Grow,Why do farmers grow many fruits and vegetable crops inside large green houses?
+Green houses,Structure,Fruits,Crop,Grown inside,Why do farmers grow many fruits and vegetable crops inside large green houses?
+Green houses,Structure,Vegetable crops,Crop,Grown inside,Why do farmers grow many fruits and vegetable crops inside large green houses?
+Leaves,Plant organ,Papers,Material,Covered with,Cover a part of two leaves with these papers and secure them with paper clips (Fig. 1.9).
+Leaves,Plant organ,Paper clips,Material,Secured with,Cover a part of two leaves with these papers and secure them with paper clips (Fig. 1.9).
+Papers,Material,Leaves,Plant organ,Covered on,Cover a part of two leaves with these papers and secure them with paper clips (Fig. 1.9).
+Paper clips,Material,Leaves,Plant organ,Secured on,Cover a part of two leaves with these papers and secure them with paper clips (Fig. 1.9).
+Plant,Organism,Sunlight,Environmental factor,Requires,Keep the plant in sunlight for 2–5 days.
+Leaf,Plant organ,Covered portions,Area,Different color from,Observe the difference in the colour of the covered and the uncovered portions on the leaf.
+Leaf,Plant organ,Uncovered portions,Area,Different color from,Observe the difference in the colour of the covered and the uncovered portions on the leaf.
+Leaf,Plant part,Iodine,Chemical,Test performed with,Perform iodine test on this leaf.
+Strip,Object,Covered part,Object,Removed from,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Exposed part,Object,Sunlight,Environmental factor,Exposed to,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Sunlight,Environmental factor,Exposed part,Object,Exposure source,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Iodine test,Chemical test,Covered part,Object,Tested on,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Iodine test,Chemical test,Exposed part,Object,Tested on,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Time,Duration,Sunlight,Environmental factor,Duration of exposure,Remove the strip and expose the covered part to the sunlight for 2–3 days and do the iodine test again.
+Green house,Building type,Place,Location,Near,Visit a green house if there is one near your place.
+Sweet potato,Plant,Water,Liquid,Growing in,Try growing a sweet potato just in water.
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,You can read more on the following website: www.phschool.com/science/biology_place/biocoach/photosynth/ overview.htm Fig. 1.9  Experiment to test the occurrence of photosynthesis Did you know?
+Thylakoids,Membrane,Chloroplasts,Organelle,within,You can read more on the following website: www.phschool.com/science/biology_place/biocoach/photosynth/ overview.htm Fig. 1.9  Experiment to test the occurrence of photosynthesis Did you know?
+Photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,You can read more on the following website: www.phschool.com/science/biology_place/biocoach/photosynth/ overview.htm Fig. 1.9  Experiment to test the occurrence of photosynthesis Did you know?
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,You can read more on the following website: www.phschool.com/science/biology_place/biocoach/photosynth/ overview.htm Fig. 1.9  Experiment to test the occurrence of photosynthesis Did you know?
+Plants,Organism,Leaves,Plant part,Grows in,Light is so important to plants that their leaves grow in many patterns so as to absorb maximum sunlight.
+Leaves,Plant part,Patterns,Characteristic,Grow in,Light is so important to plants that their leaves grow in many patterns so as to absorb maximum sunlight.
+Patterns,Characteristic,Plants,Organism,Related to,Light is so important to plants that their leaves grow in many patterns so as to absorb maximum sunlight.
+Leaves,Plant part,Sunlight,Physical entity,Absorb,Light is so important to plants that their leaves grow in many patterns so as to absorb maximum sunlight.
+Sunlight,Physical entity,Plants,Organism,Important to,Light is so important to plants that their leaves grow in many patterns so as to absorb maximum sunlight.
+Plants,Organism type,Food,Biological entity,Prepared by,Rationalised 2023-24  2Nutrition in Animals Y ou have learnt in Chapter 1 that plants can prepare their own food by the process of photosynthesis but animals cannot.
+Photosynthesis,Biological process,Plants,Organism type,Process occurs in,Rationalised 2023-24  2Nutrition in Animals Y ou have learnt in Chapter 1 that plants can prepare their own food by the process of photosynthesis but animals cannot.
+Animals,Organism type,Food,Biological entity,Obtained from,Rationalised 2023-24  2Nutrition in Animals Y ou have learnt in Chapter 1 that plants can prepare their own food by the process of photosynthesis but animals cannot.
+Animals,Organism,Plants,Organism,Source of food,"Animals get their food from plants, either directly by eating plants or indirectly by eating animals that eat plants."
+Animals,Organism,Other animals,Organism,Source of food,"Animals get their food from plants, either directly by eating plants or indirectly by eating animals that eat plants."
+Plants,Organism,Food,Nutrient,Provide,"Animals get their food from plants, either directly by eating plants or indirectly by eating animals that eat plants."
+Other animals,Organism,Food,Nutrient,Provide,"Animals get their food from plants, either directly by eating plants or indirectly by eating animals that eat plants."
+Animals,Organism type,Plants,Organism type,Eats,Some animals eat both plants and animals.
+Animals,Organism type,Animals,Organism type,Eats,Some animals eat both plants and animals.
+Organisms,Living beings,Humans,Living beings,Includes,"Recall that all organisms including humans require food for growth, repair and functioning of the body."
+Food,Nutrient,Organisms,Living beings,Required for,"Recall that all organisms including humans require food for growth, repair and functioning of the body."
+Growth,Biological process,Organisms,Living beings,Necessary for,"Recall that all organisms including humans require food for growth, repair and functioning of the body."
+Repair,Biological process,Organisms,Living beings,Necessary for,"Recall that all organisms including humans require food for growth, repair and functioning of the body."
+Functioning of the body,Biological process,Organisms,Living beings,Necessary for,"Recall that all organisms including humans require food for growth, repair and functioning of the body."
+Animal nutrition,Topic,Nutrient requirement,Requirement type,Includes,"Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+Animal nutrition,Topic,Mode of intake of food,Intake type,Includes,"Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+Animal nutrition,Topic,Utilisation of food in the body,Utilisation type,Includes,"Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+Components of food,Substance,Carbohydrates,Substance,Part of,______________________ The components of food such as carbohydrates are complex substances.
+Table 2.1,Component,Breakdown,Action,Called,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Snail,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Ant,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Eagle,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Humming-bird,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Lice,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Mosquito,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Butterfly,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+House fly,Animal,Food,Feeding,Mode of feeding,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Food,Component,Digestion,Breakdown,Called,"The breakdown of complex components of Table 2.1 Various modes of feeding Name of Kind of Mode of animal food feeding Snail Ant Eagle Humming-bird Lice Mosquito Butterfly House fly (Scraping, chewing, siphoning, capturing and swallowing, sponging, sucking etc.) food into simpler substances is called digestion."
+Organisms,Living beings,Food,Nutrient,Consumes,2.1 DIFFERENT WAYS OF TAKING FOOD The mode of taking food into the body varies in different organisms.
+Mode of taking food,Process,Body,Organism,Varies in,2.1 DIFFERENT WAYS OF TAKING FOOD The mode of taking food into the body varies in different organisms.
+Body,Organism,Food,Nutrient,Takes in,2.1 DIFFERENT WAYS OF TAKING FOOD The mode of taking food into the body varies in different organisms.
+Bees,Insect,Plants,Plant,Feed on nectar of,"Bees and humming-birds suck the nectar of plants, infants of human and many other animals feed on mother’s milk."
+Humming-birds,Bird,Plants,Plant,Feed on nectar of,"Bees and humming-birds suck the nectar of plants, infants of human and many other animals feed on mother’s milk."
+Infants,Human/Animal offspring,Mother's milk,Milk type,Feed on,"Bees and humming-birds suck the nectar of plants, infants of human and many other animals feed on mother’s milk."
+Snakes,Animal,Python,Animal,Belongs to,Snakes like the python swallow the animals they prey upon.
+Snakes,Animal,Animals,Animal,Prey upon,Snakes like the python swallow the animals they prey upon.
+Python,Animal,Animals,Animal,Prey upon,Snakes like the python swallow the animals they prey upon.
+Animals,Animal,Snakes,Animal,Preyed upon by,Snakes like the python swallow the animals they prey upon.
+Aquatic animals,Animal,Food particles,Food,Filter,Some aquatic animals filter tiny food particles floating nearby and feed upon them.
+Food particles,Food,Nearby,Location,Floating,Some aquatic animals filter tiny food particles floating nearby and feed upon them.
+Aquatic animals,Animal,Feed,Action,Upon,Some aquatic animals filter tiny food particles floating nearby and feed upon them.
+Complex substance,Chemical substance,Simpler substances,Chemical substance,Derived from,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Rationalised 2023-24,Event,Complex substance,Chemical substance,Expected outcome,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Science 12,Academic course,Complex substance,Chemical substance,Related to,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Starfish,Animal,Hard shells of calcium carbonate,Chemical substance,Covered by,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Starfish,Animal,Feeds on,Animal,Preys on,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Amazing fact,Information,Starfish,Animal,Describes,Complex substance Simpler substances Rationalised 2023-24  SCIENCE 12 Fig. 2.1  Starfish Amazing fact Starfish feeds on animals covered by hard shells of calcium carbonate.
+Starfish,Animal,Shell,Object,Contains,"After opening the shell, the starfish pops out its stomach through its mouth to eat the soft animal inside the shell."
+Starfish,Animal,Mouth,Body part,Uses,"After opening the shell, the starfish pops out its stomach through its mouth to eat the soft animal inside the shell."
+Stomach,Organ,Starfish,Animal,Pops out of,"After opening the shell, the starfish pops out its stomach through its mouth to eat the soft animal inside the shell."
+Soft animal,Animal,Shell,Object,Found inside,"After opening the shell, the starfish pops out its stomach through its mouth to eat the soft animal inside the shell."
+Soft animal,Animal,Starfish,Animal,Eaten by,"After opening the shell, the starfish pops out its stomach through its mouth to eat the soft animal inside the shell."
+Food,Matter,Humans,Organism,Consumed by,"2.2 DIGESTION IN HUMANS We take in food through the mouth, digest and utilise it."
+Mouth,Body part,Food,Matter,Entry point for,"2.2 DIGESTION IN HUMANS We take in food through the mouth, digest and utilise it."
+Digestion,Biological process,Food,Matter,Occurs in,"2.2 DIGESTION IN HUMANS We take in food through the mouth, digest and utilise it."
+Utilisation,Biological process,Food,Matter,Results in,"2.2 DIGESTION IN HUMANS We take in food through the mouth, digest and utilise it."
+Food,Object,Unused parts,Object,Part of,The unused parts of the food are defecated.
+Unused parts,Object,Defecated,Action,Subject of,The unused parts of the food are defecated.
+Food,Object,Canal,Object,Passes through,The food passes through a continuous canal (Fig. 2.2) which begins at the buccal cavity and ends at the anus.
+Canal,Object,Buccal cavity,Anatomical structure,Begins at,The food passes through a continuous canal (Fig. 2.2) which begins at the buccal cavity and ends at the anus.
+Canal,Object,Anus,Anatomical structure,Ends at,The food passes through a continuous canal (Fig. 2.2) which begins at the buccal cavity and ends at the anus.
+Buccal cavity,Anatomical structure,Canal,Anatomical structure,Part of,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Foodpipe or oesophagus,Anatomical structure,Canal,Anatomical structure,Part of,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Stomach,Anatomical structure,Canal,Anatomical structure,Part of,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Small intestine,Anatomical structure,Canal,Anatomical structure,Part of,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Large intestine,Anatomical structure,Canal,Anatomical structure,Part of,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Rectum,Anatomical structure,Large intestine,Anatomical structure,Ends in,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Anus,Anatomical structure,Canal,Anatomical structure,Ends in,"The canal can be divided into various compartments: (1) the buccal cavity, (2) foodpipe or oesophagus, (3) stomach, (4) small intestine, (5) large intestine ending in the rectum and (6) the anus."
+Alimentary canal,Anatomical structure,Digestive tract,Anatomical structure,Form,These parts together form the alimentary canal (digestive tract).
+Food components,Biological molecules,Various compartments,Body part,Travel through,The food components gradually get digested as food travels through the various compartments.
+Digestion,Biological process,Food components,Biological molecules,Occurs gradually,The food components gradually get digested as food travels through the various compartments.
+Inner walls,Anatomical structure,Stomach,Organ,Part of,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Small intestine,Organ,Stomach,Organ,Connected to,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Various glands,Anatomical structure,Digestive canal,Organ system,Associated with,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Salivary glands,Organ,Digestive canal,Organ system,Associated with,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Liver,Organ,Digestive canal,Organ system,Associated with,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Pancreas,Organ,Digestive canal,Organ system,Associated with,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Biological substance,Inner walls,Anatomical structure,Secreted by,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Biological substance,Small intestine,Organ,Secreted by,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Biological substance,Salivary glands,Organ,Secreted by,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Biological substance,Liver,Organ,Secreted by,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Biological substance,Pancreas,Organ,Secreted by,"The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver and the pancreas secrete digestive juices."
+Digestive juices,Fluid,Food,Substance,Converts into simpler ones,The digestive juices convert complex substances of food into simpler ones.
+Digestive tract,Organ,Digestive system,System,Part of,The digestive tract and the associated glands together constitute the digestive system.
+Associated glands,Organ,Digestive system,System,Part of,The digestive tract and the associated glands together constitute the digestive system.
+Mouth,Body part,Buccal cavity,Body part,within,The mouth and buccal cavity Food is taken into the body through the mouth.
+Food,Object,Body,Organism,Taken into,The mouth and buccal cavity Food is taken into the body through the mouth.
+Fig. 2.2,Image,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Buccal cavity,Body part,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Salivary gland,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Stomach,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Pancreas,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Small intestine,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Large intestine,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Rectum,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Anus,Body part,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Gall bladder,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Liver,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Oesophagus,Organ,Human digestive system,System,Part of,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Nutrition in animals,Topic,Human digestive system,System,Related to,The process of taking food into Fig. 2.2  Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus Rationalised 2023-24  NUTRITION IN ANIMALS 13 Fig.
+Milk teeth,Tooth type,Permanent teeth,Tooth type,Succession,2.3   Arrangement of teeth and different type of teeth Milk teeth and permanent teeth Do you remember about falling of your teeth some years ago?
+Arrangement of teeth,Tooth arrangement,Milk teeth,Tooth type,Present in,2.3   Arrangement of teeth and different type of teeth Milk teeth and permanent teeth Do you remember about falling of your teeth some years ago?
+Arrangement of teeth,Tooth arrangement,Permanent teeth,Tooth type,Present in,2.3   Arrangement of teeth and different type of teeth Milk teeth and permanent teeth Do you remember about falling of your teeth some years ago?
+Falling of teeth,Event,Teeth,Body part,Related to,2.3   Arrangement of teeth and different type of teeth Milk teeth and permanent teeth Do you remember about falling of your teeth some years ago?
+First set of teeth,Body part,Infancy,Developmental stage,Grows during,The first set of teeth grows during infancy and they fall off at the age between six to eight years.
+First set of teeth,Body part,Age between six to eight years,Developmental stage,Falls off at,The first set of teeth grows during infancy and they fall off at the age between six to eight years.
+Milk teeth,Teeth type,Human,Species,Belongs to,These are termed milk teeth.
+Permanent teeth,Tooth type,Primary teeth,Tooth type,Replaces,The second set that replaces them are the permanent teeth.
+Permanent teeth,Body part,Life,Time period,Last throughout,The permanent teeth may last throughout life or fall off during old age or due to some dental disease.
+Permanent teeth,Body part,Old age,Time period,Fall off during,The permanent teeth may last throughout life or fall off during old age or due to some dental disease.
+Permanent teeth,Body part,Dental disease,Disease,Fall off due to,The permanent teeth may last throughout life or fall off during old age or due to some dental disease.
+Body,Anatomical entity,Ingestion,Biological process,called,the body is called ingestion.
+Teeth,Body part,Food,Object,Used to chew,We chew the food with the teeth and break it down mechanically into small pieces.
+Food,Object,Teeth,Body part,Chewed by,We chew the food with the teeth and break it down mechanically into small pieces.
+Tooth,Body part,Socket,Anatomical structure,Rooted in,Each tooth is rooted in a separate socket in the gums (Fig. 2.3).
+Mirror,Object,Teeth,Body part,Count,Look into the mirror and count your teeth.
+Apple,Fruit,Piece,Food,Part of,Take a piece of an apple or bread and eat it.
+Bread,Food,Piece,Food,Part of,Take a piece of an apple or bread and eat it.
+Person,Human,Piece,Food,Consumer of,Take a piece of an apple or bread and eat it.
+Small intestine,Organ,Coiled structure,Physical feature,Has,Record your observations in Table 2.2 Boojho is fascinated by the highly coiled small intestine seen in Fig. 2.2.
+Coiled structure,Physical feature,Small intestine,Organ,Part of,Record your observations in Table 2.2 Boojho is fascinated by the highly coiled small intestine seen in Fig. 2.2.
+Teeth,Body part,Mouth,Body part,Located in,"However, if we do not clean our teeth and mouth after eating, many harmful bacteria also begin to live and grow in it."
+Harmful bacteria,Microorganism,Mouth,Body part,Live in,"However, if we do not clean our teeth and mouth after eating, many harmful bacteria also begin to live and grow in it."
+Harmful bacteria,Microorganism,Teeth,Body part,Grow in,"However, if we do not clean our teeth and mouth after eating, many harmful bacteria also begin to live and grow in it."
+Eating,Activity,Teeth,Body part,Follows,"However, if we do not clean our teeth and mouth after eating, many harmful bacteria also begin to live and grow in it."
+Cleaning,Activity,Mouth,Body part,Follows,"However, if we do not clean our teeth and mouth after eating, many harmful bacteria also begin to live and grow in it."
+Bacteria,Microorganism,Sugars,Organic compound,Break down,These bacteria break down the sugars present from the leftover food and release acids (see Chapter 4 to know what an acid is).
+Sugars,Organic compound,Leftover food,Food type,Present in,These bacteria break down the sugars present from the leftover food and release acids (see Chapter 4 to know what an acid is).
+Acids,Chemical compound,Sugars,Organic compound,Release,These bacteria break down the sugars present from the leftover food and release acids (see Chapter 4 to know what an acid is).
+Acids,Chemical compound,Teeth,Body part,Damage gradually,The acids gradually damage the teeth (Fig. 2.5).
+Toothache,Symptom,Not treated,Condition,Causes,"If it is not treated in time, it causes severe toothache and in extreme cases results in tooth loss."
+Toothache,Symptom,Extreme cases,Condition,Results in,"If it is not treated in time, it causes severe toothache and in extreme cases results in tooth loss."
+Tooth loss,Condition,Not treated,Condition,Causes,"If it is not treated in time, it causes severe toothache and in extreme cases results in tooth loss."
+Tooth loss,Condition,Extreme cases,Condition,Results in,"If it is not treated in time, it causes severe toothache and in extreme cases results in tooth loss."
+Chocolates,Food product,Tooth decay,Dental condition,Causes,"Chocolates, sweets, soft drinks and other sugar products are the major culprits of tooth decay."
+Sweets,Food product,Tooth decay,Dental condition,Causes,"Chocolates, sweets, soft drinks and other sugar products are the major culprits of tooth decay."
+Soft drinks,Beverage,Tooth decay,Dental condition,Causes,"Chocolates, sweets, soft drinks and other sugar products are the major culprits of tooth decay."
+Sugar products,Food product,Tooth decay,Dental condition,Causes,"Chocolates, sweets, soft drinks and other sugar products are the major culprits of tooth decay."
+Teeth,Body part,Brush,Tool,Used to clean,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Teeth,Body part,Datun,Tool,Used to clean,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Teeth,Body part,Dental floss,Tool,Used to remove trapped food particles,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Dental floss,Tool,Two teeth,Body part,Moved between,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Mouth,Body part,Food particles,Object,Trapped in,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Mouth,Body part,Meal,Event,Occurs after,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+Teeth,Body part,Twice a day,Time,Cleaned at least,"Therefore, one should clean the teeth with a brush or datun and dental floss (a special strong thread which is moved between two teeth to take out trapped food particles) at least twice a day and rinse the mouth after every meal."
+One,Object,Fingers,Body part,Dirty,"Also, one should not put dirty fingers or any unwashed object in the mouth."
+One,Object,Unwashed object,Object,Dirty,"Also, one should not put dirty fingers or any unwashed object in the mouth."
+Mouth,Body part,One,Object,Contains/Should not contain,"Also, one should not put dirty fingers or any unwashed object in the mouth."
+Tooth,Body part,Gradual decay,Biological process,of,Fig. 2.5  Gradual decay of tooth (a) (b) (c) (d) Our mouth has the salivary glands which secrete saliva.
+Mouth,Body part,Salivary glands,Organ,has,Fig. 2.5  Gradual decay of tooth (a) (b) (c) (d) Our mouth has the salivary glands which secrete saliva.
+Salivary glands,Organ,Saliva,Substance,secrete,Fig. 2.5  Gradual decay of tooth (a) (b) (c) (d) Our mouth has the salivary glands which secrete saliva.
+Test tube A,Container,Boiled rice,Food item,Contains,In test tube ‘A’ put one teaspoonful of boiled rice; in test tube ‘B’ keep one teaspoonful of boiled rice after chewing it for 3 to 5 minutes.
+Test tube B,Container,Boiled rice,Food item,Contains,In test tube ‘A’ put one teaspoonful of boiled rice; in test tube ‘B’ keep one teaspoonful of boiled rice after chewing it for 3 to 5 minutes.
+Boiled rice,Food item,Chewed,Action,Subject of,In test tube ‘A’ put one teaspoonful of boiled rice; in test tube ‘B’ keep one teaspoonful of boiled rice after chewing it for 3 to 5 minutes.
+Boiled rice,Food item,3 to 5 minutes,Time duration,Chewed for,In test tube ‘A’ put one teaspoonful of boiled rice; in test tube ‘B’ keep one teaspoonful of boiled rice after chewing it for 3 to 5 minutes.
+Test tubes,Laboratory equipment,Water,Chemical substance,Added to,Add 3–4 mL of water in both the test tubes (Fig. 2.4).
+Test tube,Laboratory equipment,Iodine solution,Chemical reagent,Contains,Now pour 2–3 drops of iodine solution in each test tube and observe.
+Iodine solution,Chemical reagent,Test tube,Laboratory equipment,Added to,Now pour 2–3 drops of iodine solution in each test tube and observe.
+Saliva,Body fluid,Starch,Carbohydrate,Breaks down into,The saliva breaks down the starch into sugars.
+Sugars,Carbohydrate,Starch,Carbohydrate,Produced from,The saliva breaks down the starch into sugars.
+Tongue,Organ,Muscles,Tissue,Attached to,The tongue is a fleshy muscular organ attached at the back to the floor of the buccal cavity.
+Tongue,Organ,Buccal cavity,Cavity,Located in,The tongue is a fleshy muscular organ attached at the back to the floor of the buccal cavity.
+Buccal cavity,Cavity,Floor,Anatomy,Attached to,The tongue is a fleshy muscular organ attached at the back to the floor of the buccal cavity.
+Tongue,Body part,Talking,Activity,Used for,We use our tongue for talking.
+Tongue,Organ,Food,Object,Taste with,We also taste food with our tongue.
+It,Subject,Taste buds,Object,Has,It has taste buds that detect different tastes of food.
+Taste buds,Object,Different tastes of food,Object,Detect,It has taste buds that detect different tastes of food.
+Paheli,Person,Food,Object,Wants to know about,We can find out the A B Rationalised 2023-24  NUTRITION IN ANIMALS 15 Paheli wants to know how food moves in the opposite direction during vomiting.
+Food,Object,Opposite direction,Location,Moves in,We can find out the A B Rationalised 2023-24  NUTRITION IN ANIMALS 15 Paheli wants to know how food moves in the opposite direction during vomiting.
+Vomiting,Biological process,Opposite direction,Location,Occurs during,We can find out the A B Rationalised 2023-24  NUTRITION IN ANIMALS 15 Paheli wants to know how food moves in the opposite direction during vomiting.
+Fig. 2.6,Image,Tongue,Organ,Shown in,Use a clean toothpick to put the above samples one by one on different areas of the tongue as shown in Fig. 2.6.
+Toothpick,Object,Used,Action,Put on,Use a clean toothpick to put the above samples one by one on different areas of the tongue as shown in Fig. 2.6.
+Areas,Location,Tongue,Organ,On,Use a clean toothpick to put the above samples one by one on different areas of the tongue as shown in Fig. 2.6.
+Tongue,Organ,Sweet substances,Taste,Detected by,"Ask the classmate which areas of the tongue could detect the sweet, salty, sour and bitter substances."
+Tongue,Organ,Salty substances,Taste,Detected by,"Ask the classmate which areas of the tongue could detect the sweet, salty, sour and bitter substances."
+Tongue,Organ,Sour substances,Taste,Detected by,"Ask the classmate which areas of the tongue could detect the sweet, salty, sour and bitter substances."
+Tongue,Organ,Bitter substances,Taste,Detected by,"Ask the classmate which areas of the tongue could detect the sweet, salty, sour and bitter substances."
+Foodpipe,Body part,Swallowed food,Food,Passes into,The foodpipe/oesophagus The swallowed food passes into the foodpipe or oesophagus.
+Swallowed food,Food,Foodpipe,Body part,Passes into,The foodpipe/oesophagus The swallowed food passes into the foodpipe or oesophagus.
+Foodpipe,Body part,Neck,Body part,Runs along,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Eating,Activity,Foodpipe,Body part,Occurs in,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Talking,Activity,Eating,Activity,Causes,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Laughing,Activity,Eating,Activity,Causes,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Coughing,Symptom,Eating,Activity,May occur during,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Hiccups,Symptom,Eating,Activity,May occur during,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Choking sensation,Symptom,Eating,Activity,May occur during,"The foodpipe runs along the neck Sometimes when you eat in a hurry, talk or laugh while eating, you may cough, get hiccups or a choking sensation."
+Food particles,Object,Windpipe,Organ,Enter into,This happens when food particles enter the windpipe.
+Windpipe,Organ,Nostrils,Organ,Carries air to,The windpipe carries air from the nostrils to the lungs.
+Windpipe,Organ,Lungs,Organ,Carries air from,The windpipe carries air from the nostrils to the lungs.
+Foodpipe,Organ,Adjacent,Location,Runs to,It runs adjacent to the foodpipe.
+Air,Substance,Throat,Body part,Located in,"But inside the throat, air and food share a common passage."
+Food,Substance,Throat,Body part,Passes through common passage with,"But inside the throat, air and food share a common passage."
+Food,Substance,Windpipe,Organ,Blocked from,Then how is food prevented from entering the windpipe?
+Food,Substance,Esophagus,Organ,Directed to,Then how is food prevented from entering the windpipe?
+Flap-like valve,Anatomical structure,Passage of windpipe,Anatomical structure,Closes,During the act of swallowing a flap-like valve closes the passage of the windpipe and guides the food into the foodpipe.
+Flap-like valve,Anatomical structure,Foodpipe,Anatomical structure,Guides,During the act of swallowing a flap-like valve closes the passage of the windpipe and guides the food into the foodpipe.
+Passage of windpipe,Anatomical structure,Foodpipe,Anatomical structure,Connected to,During the act of swallowing a flap-like valve closes the passage of the windpipe and guides the food into the foodpipe.
+Food particles,Object,Windpipe,Body part,Enter,"If, by chance, food particles enter the windpipe, we feel choked, get hiccups or cough."
+Windpipe,Body part,Choked,Feeling,Causes,"If, by chance, food particles enter the windpipe, we feel choked, get hiccups or cough."
+Windpipe,Body part,Hiccups,Feeling,Causes,"If, by chance, food particles enter the windpipe, we feel choked, get hiccups or cough."
+Windpipe,Body part,Cough,Feeling,Causes,"If, by chance, food particles enter the windpipe, we feel choked, get hiccups or cough."
+Food,Object,Oesophagus,Organ,Passes through,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Oesophagus,Organ,Stomach,Organ,Connects to,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Stomach,Organ,Working,Concept,Discovered by,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Stomach,Organ,Accident,Concept,Occurred due to,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Accident,Concept,Discovery,Concept,Led to,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Discovery,Concept,Working of stomach,Concept,Revealed,Food Oesophagus Stomach Rationalised 2023-24  SCIENCE 16 The working of the stomach was discovered by a strange accident.
+Martin,Person,Shot gun,Weapon,Hit by,Martin was badly hit by a shot gun.
+Bullet,Object,Chest wall,Body part,Damaged,The bullet had seriously damaged the chest wall and made a hole in his stomach.
+Bullet,Object,Stomach,Body part,Made a hole in,The bullet had seriously damaged the chest wall and made a hole in his stomach.
+He,Person,American army doctor William Beaumont,Person,Brought to,He was brought to an American army doctor William Beaumont.
+Doctor,Profession,Patient,Person,Saved,The doctor saved the patient but he could not close the hole properly and left it bandaged (Fig. 2.8).
+Doctor,Profession,Hole,Object,Closed improperly,The doctor saved the patient but he could not close the hole properly and left it bandaged (Fig. 2.8).
+Hole,Object,Bandage,Object,Covered with,The doctor saved the patient but he could not close the hole properly and left it bandaged (Fig. 2.8).
+Beaumont,Person,Stomach,Organ,Observing inside,Beaumont took it as a great opportunity to see the inside of the stomach through the hole.
+Hole,Object,Stomach,Organ,Providing view,Beaumont took it as a great opportunity to see the inside of the stomach through the hole.
+Beaumont,Person,Stomach,Organ,Observed,Beaumont found that the stomach was churning food.
+Food,Substance,Stomach,Organ,Being churned,Beaumont found that the stomach was churning food.
+Wall,Anatomical structure,Not specified,Not specified,Not applicable,Its wall secreted a fluid which could digest the food.
+Fluid,Substance,Not specified,Not specified,Not applicable,Its wall secreted a fluid which could digest the food.
+Food,Substance,Not specified,Not specified,Not applicable,Its wall secreted a fluid which could digest the food.
+Wall,Anatomical structure,Fluid,Substance,Secretes,Its wall secreted a fluid which could digest the food.
+Wall,Anatomical structure,Food,Substance,Digests,Its wall secreted a fluid which could digest the food.
+End of stomach,Anatomical structure,Intestine,Anatomical structure,Connected to,He also observed that the end of the stomach opens into the intestine only after the digestion of the food inside the stomach is completed.
+Digestion,Biological process,Food,Food item,Occurs in,He also observed that the end of the stomach opens into the intestine only after the digestion of the food inside the stomach is completed.
+Stomach,Anatomical structure,Food,Food item,Contains,He also observed that the end of the stomach opens into the intestine only after the digestion of the food inside the stomach is completed.
+Food,Object,Wall of the foodpipe,Body part,Pushed down by movement of,Food is pushed down by movement of the wall of the foodpipe.
+Alimentary canal,Anatomical structure,Food,Substance,Moves throughout,Actually this movement takes place throughout the alimentary canal and pushes the food downwards (Fig. 2.7).
+Food,Substance,Alimentary canal,Anatomical structure,Pushed downwards,Actually this movement takes place throughout the alimentary canal and pushes the food downwards (Fig. 2.7).
+Food,Object,Stomach,Organ,Rejected by,At times the food is not accepted by our stomach and is vomited out.
+Vomit,Action,Stomach,Organ,Result of,At times the food is not accepted by our stomach and is vomited out.
+Stomach,Organ,Bag,Object,Described as,The stomach The stomach is a thick-walled bag.
+Alimentary canal,Anatomical structure,Flattened J,Shape,Described as,Its shape is like a flattened J and it is the widest part of the alimentary canal.
+Alimentary canal,Anatomical structure,Widest part,Characteristic,Has,Its shape is like a flattened J and it is the widest part of the alimentary canal.
+Food pipe,Organ,Small intestine,Organ,Connected to,It receives food from the food pipe at one end and opens into the small intestine at the other.
+Inner lining,Anatomical structure,Stomach,Organ,Located in,"The inner lining of the stomach secretes mucous, hydrochloric acid and digestive juices."
+Mucous,Substance,Inner lining,Anatomical structure,Secreted by,"The inner lining of the stomach secretes mucous, hydrochloric acid and digestive juices."
+Hydrochloric acid,Substance,Inner lining,Anatomical structure,Secreted by,"The inner lining of the stomach secretes mucous, hydrochloric acid and digestive juices."
+Digestive juices,Substance,Inner lining,Anatomical structure,Secreted by,"The inner lining of the stomach secretes mucous, hydrochloric acid and digestive juices."
+Mucous,Substance,Stomach lining,Anatomical structure,Protects,The mucous protects the lining of the stomach.
+acid,Chemical compound,bacteria,Microorganism,Kills,The acid kills many bacteria that enter along with the food and makes the medium in the stomach acidic and helps the digestive juices to act.
+food,Food item,bacteria,Microorganism,Enter along with,The acid kills many bacteria that enter along with the food and makes the medium in the stomach acidic and helps the digestive juices to act.
+medium,Chemical compound,stomach,Organ,Located in,The acid kills many bacteria that enter along with the food and makes the medium in the stomach acidic and helps the digestive juices to act.
+acid,Chemical compound,medium,Chemical compound,Makes acidic,The acid kills many bacteria that enter along with the food and makes the medium in the stomach acidic and helps the digestive juices to act.
+digestive juices,Biological substance,medium,Chemical compound,Helps to act,The acid kills many bacteria that enter along with the food and makes the medium in the stomach acidic and helps the digestive juices to act.
+Digestive juices,Fluid,Proteins,Macromolecule,Break down into,The digestive juices break down the proteins into simpler substances.
+Simple substances,Chemical compounds,Proteins,Macromolecule,Broken down from,The digestive juices break down the proteins into simpler substances.
+Small intestine,Organ,Length,Physical property,Has,The small intestine The small intestine is highly coiled and is about 7.5 metres long.
+Liver,Organ,Pancreas,Organ,Both secrete to,It receives secretions from the liver and the pancreas.
+Liver,Organ,Abdomen,Body part,Located in,The liver is a reddish brown gland situated in the upper part of the abdomen on the right side.
+Liver,Organ,Upper part,Body part,Located in,The liver is a reddish brown gland situated in the upper part of the abdomen on the right side.
+Liver,Organ,Right side,Body part,Located in,The liver is a reddish brown gland situated in the upper part of the abdomen on the right side.
+Gland,Organ,Body,Organism,Part of/Located in/Largest,It is the largest gland in the body.
+It,Pronoun,Bile juice,Fluid,Secretes,It secretes bile juice that is stored in a sac called the gall bladder (Fig. 2.2).
+Bile juice,Fluid,Gall bladder,Organ,Stored in,It secretes bile juice that is stored in a sac called the gall bladder (Fig. 2.2).
+Bile,Fluid,Digestion,Process,Plays a role in,The bile plays an important role in the digestion of fats.
+Bile,Fluid,Fats,Nutrient,Involved in digestion of,The bile plays an important role in the digestion of fats.
+Pancreas,Organ,Stomach,Organ,Located below,The pancreas is a large cream coloured gland located just below the stomach (Fig. 2.2).
+Pancreatic juice,Fluid,Carbohydrates,Macromolecule,Acts on,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Pancreatic juice,Fluid,Fats,Macromolecule,Acts on,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Pancreatic juice,Fluid,Proteins,Macromolecule,Acts on,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Carbohydrates,Macromolecule,Simpler forms,Chemical compound,Changed into,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Fats,Macromolecule,Simpler forms,Chemical compound,Changed into,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Proteins,Macromolecule,Simpler forms,Chemical compound,Changed into,"The pancreatic juice acts on carbohydrates, fats and proteins and changes them into simpler forms."
+Infection,Cause,Unknown,Unknown,Caused by,"It may be caused by an infection, food poisoning or indigestion."
+Food poisoning,Cause,Unknown,Unknown,Caused by,"It may be caused by an infection, food poisoning or indigestion."
+Indigestion,Cause,Unknown,Unknown,Caused by,"It may be caused by an infection, food poisoning or indigestion."
+Excessive loss,Condition,Water,Chemical compound,From,This is because of the excessive loss of water and salts from the body.
+Excessive loss,Condition,Salts,Chemical compound,From,This is because of the excessive loss of water and salts from the body.
+Body,Organism,Water,Chemical compound,Contains,This is because of the excessive loss of water and salts from the body.
+Body,Organism,Salts,Chemical compound,Contains,This is because of the excessive loss of water and salts from the body.
+Patient,Person,Boiled water,Liquid,Given to,Even before a doctor is consulted the patient should be given plenty of boiled and cooled water with a pinch of salt and sugar dissolved in it.
+Patient,Person,Cooled water,Liquid,Given to,Even before a doctor is consulted the patient should be given plenty of boiled and cooled water with a pinch of salt and sugar dissolved in it.
+Boiled water,Liquid,Salt,Compound,Dissolved in,Even before a doctor is consulted the patient should be given plenty of boiled and cooled water with a pinch of salt and sugar dissolved in it.
+Boiled water,Liquid,Sugar,Compound,Dissolved in,Even before a doctor is consulted the patient should be given plenty of boiled and cooled water with a pinch of salt and sugar dissolved in it.
+Partly digested food,Food,Lower part of small intestine,Anatomical structure,Located in,The partly digested food now reaches the lower part of the small intestine where the intestinal juice completes the digestion of all components of the food.
+Intestinal juice,Digestive juice,Lower part of small intestine,Anatomical structure,Secreted in,The partly digested food now reaches the lower part of the small intestine where the intestinal juice completes the digestion of all components of the food.
+Food components,Food,Intestinal juice,Digestive juice,Digested by,The partly digested food now reaches the lower part of the small intestine where the intestinal juice completes the digestion of all components of the food.
+Carbohydrates,Macromolecule,Simple sugars,Macromolecule,Broken into,"The carbohydrates get broken into simple sugars such as glucose, fats into fatty acids and glycerol, and proteins into amino acids."
+Fats,Macromolecule,Fatty acids,Macromolecule,Broken into,"The carbohydrates get broken into simple sugars such as glucose, fats into fatty acids and glycerol, and proteins into amino acids."
+Fats,Macromolecule,Glycerol,Macromolecule,Broken into,"The carbohydrates get broken into simple sugars such as glucose, fats into fatty acids and glycerol, and proteins into amino acids."
+Proteins,Macromolecule,Amino acids,Macromolecule,Broken into,"The carbohydrates get broken into simple sugars such as glucose, fats into fatty acids and glycerol, and proteins into amino acids."
+Absorption,Biological process,Small intestine,Organ,Occurs in,Absorption in the small intestine The digested food can now pass into the blood vessels in the wall of the intestine.
+Digested food,Substance,Blood vessels,Organ,Passes into,Absorption in the small intestine The digested food can now pass into the blood vessels in the wall of the intestine.
+Inner walls,Anatomical structure,Small intestine,Organ,Part of,The inner walls of the small intestine have thousands of finger-like outgrowths.
+Finger-like outgrowths,Anatomical structure,Inner walls,Anatomical structure,Located on,The inner walls of the small intestine have thousands of finger-like outgrowths.
+Villi,Anatomical structure,Digested food,Food,Absorption of,The villi increase the surface area for absorption of the digested food.
+Villus,Anatomy,Blood vessels,Anatomy,Network of,Each villus has a network of thin and small blood vessels close to its surface.
+Surface,Anatomical structure,Villi,Anatomical structure,On,The surface of the villi absorbs the digested food materials.
+Digested food materials,Substance,Surface,Anatomical structure,Absorbed by,The surface of the villi absorbs the digested food materials.
+Absorbed substances,Chemical compound,Blood vessels,Anatomical structure,Transported via,The absorbed substances are transported via the blood vessels to different organs of the body where they are used to build complex substances such as the proteins required by the body.
+Blood vessels,Anatomical structure,Organs of the body,Anatomical structure,Transported to,The absorbed substances are transported via the blood vessels to different organs of the body where they are used to build complex substances such as the proteins required by the body.
+Organs of the body,Anatomical structure,Complex substances,Chemical compound,Built in,The absorbed substances are transported via the blood vessels to different organs of the body where they are used to build complex substances such as the proteins required by the body.
+Proteins,Chemical compound,Body,Anatomical structure,Required by,The absorbed substances are transported via the blood vessels to different organs of the body where they are used to build complex substances such as the proteins required by the body.
+Glucose,Compound,Cells,Cell type,Present in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Oxygen,Element,Cells,Cell type,Present in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Carbon dioxide,Compound,Cells,Cell type,Produced in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Water,Compound,Cells,Cell type,Produced in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Energy,Physical quantity,Cells,Cell type,Released during,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Glucose,Compound,Oxygen,Element,Reactant in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Glucose,Compound,Carbon dioxide,Compound,Product of,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Glucose,Compound,Water,Compound,Product of,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Oxygen,Element,Carbon dioxide,Compound,Reactant in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Oxygen,Element,Water,Compound,Reactant in,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Carbon dioxide,Compound,Water,Compound,Not directly related,"In the cells, glucose breaks down with the help of oxygen into carbon dioxide and water, and energy is released."
+Food,Substance,Large intestine,Organ,Enters into,The food that remains undigested and unabsorbed enters into the large intestine.
+Undigested food,Substance,Large intestine,Organ,Enters into,The food that remains undigested and unabsorbed enters into the large intestine.
+Unabsorbed food,Substance,Large intestine,Organ,Enters into,The food that remains undigested and unabsorbed enters into the large intestine.
+Large intestine,Organ,Small intestine,Organ,Compared to,Large intestine The large intestine is wider and shorter than small intestine.
+Function,Characteristic,Undigested food material,Substance,Absorbed from,Its function is to absorb  water and some salts from the undigested food material.
+Water,Substance,Undigested food material,Substance,Absorbed from,Its function is to absorb  water and some salts from the undigested food material.
+Salts,Substance,Undigested food material,Substance,Absorbed from,Its function is to absorb  water and some salts from the undigested food material.
+Rectum,Organ,Waste,Substance,Passes into,The remaining waste passes into the rectum and remains there as semi-solid faeces.
+Semi-solid faeces,Substance,Rectum,Organ,Remains there,The remaining waste passes into the rectum and remains there as semi-solid faeces.
+Faecal matter,Biological substance,Anus,Body part,Removed through,The faecal matter is removed through the anus from time-to-time.
+Cows,Animal,Grass-eating animals,Animal,Belongs to,"2.3 DIGESTION IN GRASS-EATING ANIMALS Have you observed cows, buffaloes and other grass-eating animals chewing continuously even when they are not eating?"
+Buffaloes,Animal,Grass-eating animals,Animal,Belongs to,"2.3 DIGESTION IN GRASS-EATING ANIMALS Have you observed cows, buffaloes and other grass-eating animals chewing continuously even when they are not eating?"
+Digestion,Biological process,Grass-eating animals,Animal,Occurs in,"2.3 DIGESTION IN GRASS-EATING ANIMALS Have you observed cows, buffaloes and other grass-eating animals chewing continuously even when they are not eating?"
+Chewing,Activity,Cows,Animal,Performed by,"2.3 DIGESTION IN GRASS-EATING ANIMALS Have you observed cows, buffaloes and other grass-eating animals chewing continuously even when they are not eating?"
+Chewing,Activity,Buffaloes,Animal,Performed by,"2.3 DIGESTION IN GRASS-EATING ANIMALS Have you observed cows, buffaloes and other grass-eating animals chewing continuously even when they are not eating?"
+Grass,Plant,Stomach,Organ,Contained in,"Actually, they quickly swallow the grass and store it in a part of the stomach called rumen (Fig. 2.9)."
+Rumen,Organ,Stomach,Organ,Part of,"Actually, they quickly swallow the grass and store it in a part of the stomach called rumen (Fig. 2.9)."
+Fig. 2.9,Image,Stomach,Organ,Referenced in,"Actually, they quickly swallow the grass and store it in a part of the stomach called rumen (Fig. 2.9)."
+Digestive system,Ruminant,Boojho,Person,Related to,Here the food gets Rationalised 2023-24  SCIENCE 18 Fig. 2.9  Digestive system of ruminant Boojho wants to know why we cannot digest cellulose like the cattle do.
+Food,Substance,Cellulose,Substance,Cannot digest,Here the food gets Rationalised 2023-24  SCIENCE 18 Fig. 2.9  Digestive system of ruminant Boojho wants to know why we cannot digest cellulose like the cattle do.
+Cattle,Animal,Ruminant,Animal,Digest cellulose,Here the food gets Rationalised 2023-24  SCIENCE 18 Fig. 2.9  Digestive system of ruminant Boojho wants to know why we cannot digest cellulose like the cattle do.
+Rumen,Organ,Cellulose,Substrate,Digests,Rumen helps in digestion of cellulose.
+Animals,Organism type,Humans,Organism type,including,"Many animals, including humans, cannot digest cellulose."
+Animals,Organism type,Cellulose,Biological molecule,cannot digest,"Many animals, including humans, cannot digest cellulose."
+Animals,Organism type,Horses,Rabbit,Belongs to,"Animals like horses, rabbit, etc., have a large sac-like structure called Caecum between the oesophagus and the small intestine (Fig. 2.9)."
+Caecum,Anatomical structure,Horses,Rabbit,Located between,"Animals like horses, rabbit, etc., have a large sac-like structure called Caecum between the oesophagus and the small intestine (Fig. 2.9)."
+Oesophagus,Anatomical structure,Caecum,Anatomical structure,Connected to,"Animals like horses, rabbit, etc., have a large sac-like structure called Caecum between the oesophagus and the small intestine (Fig. 2.9)."
+Small intestine,Anatomical structure,Caecum,Anatomical structure,Connected to,"Animals like horses, rabbit, etc., have a large sac-like structure called Caecum between the oesophagus and the small intestine (Fig. 2.9)."
+Cellulose,Carbohydrate,Food,Nutrient,Component of,The cellulose of the food is digested here by the action of certain bacteria which are not present in humans.
+Digestion,Biological process,Certain bacteria,Microorganism,Performs,The cellulose of the food is digested here by the action of certain bacteria which are not present in humans.
+Certain bacteria,Microorganism,Humans,Organism,Not present in,The cellulose of the food is digested here by the action of certain bacteria which are not present in humans.
+Animals,Organism type,Digestive system,Organ system,Possess,So far you have learnt about animals which possess the digestive system.
+Small organisms,Organism type,Digestive system,Organ system,Lack,But there are many small organisms which do not have a mouth and a digestive system.
+Small organisms,Organism type,Mouth,Organ,Lack,But there are many small organisms which do not have a mouth and a digestive system.
+Amoeba,Organism,Pond water,Environment,Found in,2.4 FEEDING AND DIGESTION IN AMOEBA Amoeba is a microscopic single-celled organism found in pond water.
+Amoeba,Organism,Cell membrane,Cell component,Has,"Amoeba has a cell membrane, a rounded, dense nucleus and many small bubble-like vacuoles (Fig. 2.10) in its cytoplasm."
+Amoeba,Organism,"Rounded, dense nucleus",Cell component,Has,"Amoeba has a cell membrane, a rounded, dense nucleus and many small bubble-like vacuoles (Fig. 2.10) in its cytoplasm."
+Amoeba,Organism,Vacuoles,Cell component,Has,"Amoeba has a cell membrane, a rounded, dense nucleus and many small bubble-like vacuoles (Fig. 2.10) in its cytoplasm."
+Vacuoles,Cell component,Cytoplasm,Cell component,Located in,"Amoeba has a cell membrane, a rounded, dense nucleus and many small bubble-like vacuoles (Fig. 2.10) in its cytoplasm."
+Amoeba,Organism,Shape,Physical characteristic,Changes constantly,Amoeba constantly changes its shape and position.
+Amoeba,Organism,Position,Physical characteristic,Changes constantly,Amoeba constantly changes its shape and position.
+Pseudopodia,Projection,Organism,Organism,Produced by,"It pushes out one, or more finger-like projections, called pseudopodia or false feet for movement and capture of food."
+False feet,Projection,Organism,Organism,Alternative name for Pseudopodia,"It pushes out one, or more finger-like projections, called pseudopodia or false feet for movement and capture of food."
+Movement,Biological process,Pseudopodia,Projection,Enables,"It pushes out one, or more finger-like projections, called pseudopodia or false feet for movement and capture of food."
+Capture of food,Biological process,Pseudopodia,Projection,Enables,"It pushes out one, or more finger-like projections, called pseudopodia or false feet for movement and capture of food."
+Rumination,Biological process,Ruminants,Animal group,Performed by,This process is called rumination and these animals are called ruminants.
+Ruminants,Animal group,Rumination,Biological process,Performing,This process is called rumination and these animals are called ruminants.
+Grass,Plant,Cellulose,Carbohydrate,Contains,"The grass is rich in cellulose, a type of carbohydrate."
+Ruminants,Animal type,"Cattle, deer, etc.",Animal type,Belongs to,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Bacteria,Rumen microorganism,Rumen,Stomach part,Present in,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Rumen,Stomach part,Ruminants,Animal type,Located in,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Oesophagus,Stomach part,Ruminants,Animal type,Connected to,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Large Intestine,Stomach part,Ruminants,Animal type,Connected to,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Small Intestine,Stomach part,Ruminants,Animal type,Connected to,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Caecum,Stomach part,Ruminants,Animal type,Connected to,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Amoeba,Organism,Microscopic organisms,Organism,Feeds on,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Food particle,Object,Amoeba,Organism,Ingested by,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Food vacuole,Object,Amoeba,Organism,Formed around food particle,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Pseudopodium,Cellular extension,Amoeba,Organism,Used for movement and feeding,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Egested waste,Object,Amoeba,Organism,Excreted waste,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+Nucleus,Cellular organelle,Amoeba,Organism,Present in,"In ruminants like cattle, deer, etc., bacteria present in rumen Stomach Oesophagus Large Intestine Small Intestine Caecum Fig. 2.10  Amoeba Food particle (ingestion) Food vacuole Pseudopodium Egested waste Nucleus Rationalised 2023-24  NUTRITION IN ANIMALS 19 Amoeba feeds on some microscopic organisms."
+It,Pronoun,Food,Noun,Senses,"When it senses food, it pushes out pseudopodia around the food particle and engulfs it."
+It,Pronoun,Pseudopodia,Noun,Pushes out around,"When it senses food, it pushes out pseudopodia around the food particle and engulfs it."
+It,Pronoun,Food particle,Noun,Engulfs,"When it senses food, it pushes out pseudopodia around the food particle and engulfs it."
+Food,Substance,Food vacuole,Organelle,Trapped in,The food becomes trapped in a food vacuole [Fig. 2.10).
+Digestive juices,Substance,Food vacuole,Organelle,Secreted into,Digestive juices are secreted into the food vacuole.
+digested food,Food,absorbed,Process,Gradually,Gradually the digested food is absorbed.
+Absorbed substances,Unknown,Growth,Biological process,Used for,"The absorbed substances are used for growth, maintenance and multiplication."
+Absorbed substances,Unknown,Maintenance,Biological process,Used for,"The absorbed substances are used for growth, maintenance and multiplication."
+Absorbed substances,Unknown,Multiplication,Biological process,Used for,"The absorbed substances are used for growth, maintenance and multiplication."
+Vacuole,Organelle,Undigested residue,Food component,Expels outside,The undigested residue of the food is expelled outside by the vacuole.
+Digestion of food,Biological process,Animals,Organism type,Occurs in,The basic process of digestion of food and release of energy is the same in all animals.
+Release of energy,Biological process,Animals,Organism type,Occurs in,The basic process of digestion of food and release of energy is the same in all animals.
+Intestine,Organ,Food,Nutrient,Absorbed by,In a later chapter you will learn about the transport of food absorbed by the intestine to the various parts of the body.
+Intestine,Organ,Body,Organism,Transported to,In a later chapter you will learn about the transport of food absorbed by the intestine to the various parts of the body.
+Animal nutrition,Topic,Nutrient requirement,Nutrient,Includes,"What you have learnt  Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+Animal nutrition,Topic,Mode of intake of food,Process,Includes,"What you have learnt  Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+Animal nutrition,Topic,Utilisation in the body,Process,Includes,"What you have learnt  Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body."
+The human digestive system,Anatomical system,Alimentary canal,Organ,Consists of, The human digestive system consists of the alimentary canal and secretory glands.
+The human digestive system,Anatomical system,Secretory glands,Organ,Consists of, The human digestive system consists of the alimentary canal and secretory glands.
+Buccal cavity,Anatomical structure,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Oesophagus,Organ,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Stomach,Organ,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Small intestine,Organ,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Large intestine,Organ,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Rectum,Organ,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Anus,Anatomical structure,Digestive system,Organ system,Part of,"It consists of the (i) buccal cavity, (ii) oesophagus, (iii) stomach, (iv) small intestine, (v) large intestine ending in rectum and (vi) anus."
+Salivary glands,Organ,Digestive glands,Organ,Secrete digestive juices,"The main digestive glands which secrete digestive juices are (i) the salivary glands, (ii) the liver and (iii) the pancreas."
+Liver,Organ,Digestive glands,Organ,Secrete digestive juices,"The main digestive glands which secrete digestive juices are (i) the salivary glands, (ii) the liver and (iii) the pancreas."
+Pancreas,Organ,Digestive glands,Organ,Secrete digestive juices,"The main digestive glands which secrete digestive juices are (i) the salivary glands, (ii) the liver and (iii) the pancreas."
+Stomach wall,Organ,Digestive juices,Fluid,Secretes,The stomach wall and the wall of the small intestine also secrete digestive juices.
+Wall of small intestine,Organ,Digestive juices,Fluid,Secretes,The stomach wall and the wall of the small intestine also secrete digestive juices.
+Modes of feeding,Characteristic,Organisms,Living beings,Varies in, The modes of feeding vary in different organisms.
+Buccal cavity,Body part,Carbohydrates,Nutrient,Digestion begins in,"Keywords Absorption Amino acid Amoeba Assimilation Bile Buccal cavity Canine Cellulose Digestion Egestion Fatty acid Food vacuole Gall bladder Glycerol Incisor Ingestion Liver Milk teeth Molar Permanent teeth Oesophagus Pancreas Premolar Pseudopodia Rumen Ruminant Rumination Salivary glands Villi Saliva Rationalised 2023-24  SCIENCE 20  Digestion of carbohydrates, like starch, begins in the buccal cavity."
+Digestion,Biological process,Protein,Macromolecule,Involves,The digestion of protein starts in the stomach.
+Stomach,Organ,Protein,Macromolecule,Location of,The digestion of protein starts in the stomach.
+Bile,Secretion,Liver,Organ,Produced by,"The bile secreted from the liver, the pancreatic juice from the pancreas and the digestive juice from the intestinal wall complete the digestion of all components of food in the small intestine."
+Pancreatic juice,Secretion,Pancreas,Organ,Produced by,"The bile secreted from the liver, the pancreatic juice from the pancreas and the digestive juice from the intestinal wall complete the digestion of all components of food in the small intestine."
+Digestive juice,Secretion,Intestinal wall,Tissue,Produced by,"The bile secreted from the liver, the pancreatic juice from the pancreas and the digestive juice from the intestinal wall complete the digestion of all components of food in the small intestine."
+Small intestine,Organ,Food components,Substance,Digests,"The bile secreted from the liver, the pancreatic juice from the pancreas and the digestive juice from the intestinal wall complete the digestion of all components of food in the small intestine."
+Digested food,Food,Blood vessels,Blood vessel,Absorbed in,The digested food is absorbed in the blood vessels from the small intestine.
+Small intestine,Organ,Blood vessels,Blood vessel,From,The digested food is absorbed in the blood vessels from the small intestine.
+absorbed substances,Unknown,different parts of the body,Body part,Transported to, The absorbed substances are transported to different parts of the body.
+Water,Compound,Undigested food,Food type,Absorbed from,Water and some salts are absorbed from the undigested food in the large intestine.
+Salts,Compound,Undigested food,Food type,Absorbed from,Water and some salts are absorbed from the undigested food in the large intestine.
+Large intestine,Organ,Undigested food,Food type,Located in,Water and some salts are absorbed from the undigested food in the large intestine.
+Undigested residues,Substance,Body,Organism,Expelled out of, The undigested and unabsorbed residues are expelled out of the body as faeces through the anus.
+Unabsorbed residues,Substance,Body,Organism,Expelled out of, The undigested and unabsorbed residues are expelled out of the body as faeces through the anus.
+Faeces,Substance,Anus,Organ,Expelled through, The undigested and unabsorbed residues are expelled out of the body as faeces through the anus.
+Cows,Animal,Grazing animals,Animal,Type of," The grazing animals like cows, buffaloes and deer are known as ruminants."
+Buffaloes,Animal,Grazing animals,Animal,Type of," The grazing animals like cows, buffaloes and deer are known as ruminants."
+Deer,Animal,Grazing animals,Animal,Type of," The grazing animals like cows, buffaloes and deer are known as ruminants."
+Ruminants,Animal,Grazing animals,Animal,Also known as," The grazing animals like cows, buffaloes and deer are known as ruminants."
+They,Pronoun,,,,"They quickly ingest, swallow their leafy food and store it in the rumen."
+Ingest,Biological process,,,,"They quickly ingest, swallow their leafy food and store it in the rumen."
+Swallow,Biological process,,,,"They quickly ingest, swallow their leafy food and store it in the rumen."
+Leafy food,Food,,,,"They quickly ingest, swallow their leafy food and store it in the rumen."
+Rumen,Organ,,,,"They quickly ingest, swallow their leafy food and store it in the rumen."
+They,Pronoun,Leafy food,Food,Consume,"They quickly ingest, swallow their leafy food and store it in the rumen."
+They,Pronoun,Rumen,Organ,Store in,"They quickly ingest, swallow their leafy food and store it in the rumen."
+Food,Object,Mouth,Body part,Returns to,"Later, the food returns to the mouth and the animal chews it peacefully."
+Animal,Organism,Food,Object,Chews,"Later, the food returns to the mouth and the animal chews it peacefully."
+Amoeba,Organism,Food,Object,Ingests, Amoeba ingests its food with the help of its false feet or pseudopodia.
+Amoeba,Organism,False feet,Body part,Uses, Amoeba ingests its food with the help of its false feet or pseudopodia.
+False feet,Body part,Ingestion of food,Biological process,Aids in, Amoeba ingests its food with the help of its false feet or pseudopodia.
+Food,Substance,Food vacuole,Organelle,Digested in,The food is digested in the food vacuole.
+The main steps of nutrition in humans are Ingestion,Process,Digestion,Process,Absorption,"Fill in the blanks: (a) The main steps of nutrition in humans are __________, __________, __________, _________ and __________."
+Stomach,Organ,Hydrochloric acid,Chemical substance,Releases,(c) The stomach releases hydrochloric acid and ___________ juices which act on food.
+Stomach,Organ,Juices,Biological substance,Releases,(c) The stomach releases hydrochloric acid and ___________ juices which act on food.
+Hydrochloric acid,Chemical substance,Food,Nutrient,Acts on,(c) The stomach releases hydrochloric acid and ___________ juices which act on food.
+Juices,Biological substance,Food,Nutrient,Acts on,(c) The stomach releases hydrochloric acid and ___________ juices which act on food.
+TRUE,Statement,Gall bladder,Organ,Stores,(T/F) (c) The gall bladder temporarily stores bile.
+Entity1,Entity1_type,Entity2,Entity2_type,Relation,What is their location and function?
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,What is their location and function?
+Chloroplasts,Organelle,Photosynthesis,Biological process,Occurs in,What is their location and function?
+Chloroplasts,Organelle,Thylakoids,Membrane,Contains,What is their location and function?
+Thylakoids,Membrane,Light-dependent reactions,Biological process,Occur in,What is their location and function?
+Chloroplasts,Organelle,Light-dependent reactions,Biological process,Occurs in,What is their location and function?
+Bile,Fluid,Produced,Process,Produced by liver,Where is the bile produced?
+(a) Salivary gland,Organ,Saliva secretion,Biological process,Secretes,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+(b) Stomach,Organ,Acid release,Biological process,Releases,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+(c) Liver,Organ,Bile juice secretion,Biological process,Secretes,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+(d) Rectum,Organ,Release of faeces,Biological process,Releases,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+(e) Small intestine,Organ,Digestion is completed,Biological process,Completes,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+(f) Large intestine,Organ,Absorption of water,Biological process,Absorbs,Match the items of Column I with suitable items in Column II Column I Column II (a) Salivary gland (i) Bile juice secretion (b) Stomach (ii) Storage of undigested food (c) Liver (iii) Saliva secretion (d) Rectum (iv) Acid release (e) Small intestine (v) Digestion is completed (f ) Large intestine (vi) Absorption of water (vii) Release of faeces Rationalised 2023-24  SCIENCE 22 13.
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Chloroplasts,Organelle,Thylakoids,Membrane,Contains,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Plant cells,Cell type,Chloroplasts,Organelle,Contains,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Plant cells,Cell type,Thylakoids,Membrane,Contains,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Photosynthesis,Biological process,Thylakoids,Membrane,Occurs in,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Thylakoids,Membrane,Chloroplasts,Organelle,within,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Thylakoids,Membrane,Light-dependent reactions,Biological process,Occur in,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,Rationalised 2023-24  NUTRITION IN ANIMALS 23 3.
+Chloroplasts,Organelle,plant cells,Cell type,Located in,No.
+photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,No.
+thylakoids,Membrane,Chloroplasts,Organelle,within,No.
+light-dependent reactions,Biological process,thylakoids,Membrane,Occur in,No.
+Children,Person,Lose milk teeth,Event,Average age,Find out from at least twenty children and find the average age at which children lose the milk teeth.
+Milk teeth,Body part,Children,Person,Lose,Find out from at least twenty children and find the average age at which children lose the milk teeth.
+Chloroplasts,Organelle,Plant cells,Cell type,Located in,You may take help of your friends.
+Chloroplasts,Organelle,Thylakoids,Membrane,Contains,You may take help of your friends.
+Chloroplasts,Organelle,Photosynthesis,Biological process,Occurs in,You may take help of your friends.
+Thylakoids,Membrane,Chloroplasts,Organelle,within,You may take help of your friends.
+Thylakoids,Membrane,Light-dependent reactions,Biological process,Occur in,You may take help of your friends.
+Photosynthesis,Biological process,Thylakoids,Membrane,Occurs in,You may take help of your friends.
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,You may take help of your friends.
+Goat's milk,Product,Fats,Nutrient,Contains,Fats in goat’s milk are much simpler than those in cow’s milk.
+Cow's milk,Product,Fats,Nutrient,Contains,Fats in goat’s milk are much simpler than those in cow’s milk.
+Woollen clothes,Clothing type,Animal fibres,Material,Made from,Rationalised 2023-24  3Heat Y ou know that woollen clothes are made from animal fibres.
+Cotton,Plant fibre,Clothes,Textile product,Made from,You also know that cotton clothes are made from plant fibres.
+Woollen clothes,Clothing material,Winters,Season,Worn during,We wear woollen clothes during winters when it is cold outside.
+Cold,Weather condition,Outside,Location,Associated with,We wear woollen clothes during winters when it is cold outside.
+Woollen clothes,Clothing material,Us,Human,Keeps warm.,Woollen clothes keep us warm.
+You,Person,House,Building,Located inside,In winter you feel cold inside the house.
+Cold,Sensation,You,Person,Felt by,In winter you feel cold inside the house.
+Sun,Star,You,Person,Related to,"If you come out in the sun, you feel warm."
+Warmth,Physical sensation,You,Person,Experienced by,"If you come out in the sun, you feel warm."
+Summer,Season,You,Person,During,"In summer, you feel hot even inside the house."
+You,Person,House,Building,Inside,"In summer, you feel hot even inside the house."
+Some objects,Object type,Hot,Temperature,Describes,Some of them are hot We see that some objects are cold while some are hot.
+Some objects,Object type,Cold,Temperature,Describes,Some of them are hot We see that some objects are cold while some are hot.
+A,Membrane,B,Organelle,within,"Label them as A, B and C."
+B,Organelle,C,Cell type,Located in,"Label them as A, B and C."
+Photosynthesis,Biological process,B,Organelle,Occurs in,"Label them as A, B and C."
+Light-dependent reactions,Biological process,A,Membrane,Occur in,"Label them as A, B and C."
+Container A,Container,Cold water,Liquid,Contains,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Cold water,Liquid,Container A,Container,Contained in,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Container A,Container,Hot water,Liquid,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Hot water,Liquid,Container A,Container,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Container A,Container,Container B,Container,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Container B,Container,Does not have relation,Does not have relation,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Container A,Container,Container C,Container,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Container C,Container,Does not have relation,Does not have relation,Does not have relation,Put cold water in container A and hot water in container Table 3.1:  Hot and cold objects Object Cold/Cool Warm/Hot Ice cream  Spoon in a tea cup Fruit juice Handle of a frying pan Fig. 3.1   Feeling water in three containers (A) (B) (C) and some of them are cold.
+Tea,Beverage,Hot,Temperature,has,Tea is hot and ice is cold.
+Ice,Solid,Cold,Temperature,has,Tea is hot and ice is cold.
+Do not touch,Action,Objects,Object,which are too hot,Do not touch objects which are too hot.
+Hand,Body part,Water,Substance,Touched by,Make sure that water is not so hot that you burn your hand Rationalised 2023-24  HEAT 25 your hand and examine it carefully.
+Water,Substance,Hand,Body part,Touched by,Make sure that water is not so hot that you burn your hand Rationalised 2023-24  HEAT 25 your hand and examine it carefully.
+Hand,Body part,Hand,Body part,Examined,Make sure that water is not so hot that you burn your hand Rationalised 2023-24  HEAT 25 your hand and examine it carefully.
+Hand,Body part,Heat,Physical agent,Affected by,Make sure that water is not so hot that you burn your hand Rationalised 2023-24  HEAT 25 your hand and examine it carefully.
+Thermometer,Instrument,You,Person,Belongs to,"If you do not have a thermometer, request a friend to share it with you."
+Friend,Person,You,Person,Can share with,"If you do not have a thermometer, request a friend to share it with you."
+Clinical thermometer,Instrument,Fig. 3.2,Image,Looks like,A clinical thermometer looks like the one shown in Fig. 3.2.
+Clinical thermometer,Instrument,Glass tube,Material,Consists of,"A clinical thermometer consists of a long, narrow, uniform glass tube."
+Glass tube,Material,Long,Size,Described as narrow,"A clinical thermometer consists of a long, narrow, uniform glass tube."
+Glass tube,Material,Uniform,Property,Described as uniform,"A clinical thermometer consists of a long, narrow, uniform glass tube."
+Thermometer,Instrument,Mercury thread,Material,Contains,"If you do not see the mercury thread, rotate the thermometer a bit till you see it."
+Thermometer,Instrument,Scale,Measurement,Found on,You will also find a scale on the thermometer.
+Celsius scale,Measurement scale,°C,Symbol,Indicated by,"The scale we use is the celsius scale, indicated by °C."
+Boojho,Person,Sense of touch,Sensation,Relies on,Boojho’s confusion shows that we cannot always rely on our sense of touch to decide whether an object is hot or cold.
+Object,Physical object,Hot or cold,Temperature,Perceived by,Boojho’s confusion shows that we cannot always rely on our sense of touch to decide whether an object is hot or cold.
+Object,Physical property,Temperature,Measurement,Reliable measure of,A reliable measure of the hotness of an object is its temperature.
+Temperature,Physical quantity,Thermometer,Device,Measured by,Temperature is measured by a device called thermometer.
+Temperature,Physical quantity,Someone,Person,Measured by,"Recall that when you or someone else in your family had fever, the temperature was measured by a thermometer."
+Thermometer,Instrument,Fever,Medical condition,Used to measure,"Recall that when you or someone else in your family had fever, the temperature was measured by a thermometer."
+Clinical thermometer,Device,Body temperature,Physical quantity,Measures,The thermometer that measures our body temperature is called a clinical thermometer.
+Fig. 3.2,Image,Thermometer,Instrument,Depicted in,Hold the thermometer in Fig. 3.2  A clinical thermom- eter A clinical thermometer reads temperature from 35°C to 42°C.
+Clinical thermometer,Instrument,Temperature,Physical quantity,Reads,Hold the thermometer in Fig. 3.2  A clinical thermom- eter A clinical thermometer reads temperature from 35°C to 42°C.
+Clinical thermometer,Instrument,35°C to 42°C,Temperature range,Reads,Hold the thermometer in Fig. 3.2  A clinical thermom- eter A clinical thermometer reads temperature from 35°C to 42°C.
+Container C,Container,Cold water,Liquid,Mixed with,Mix some cold and hot water in container C.
+Container C,Container,Hot water,Liquid,Mixed with,Mix some cold and hot water in container C.
+Left hand,Body part,Container A,Object,Dipped in,Now dip your left hand in container A and the right hand in container B.
+Right hand,Body part,Container B,Object,Dipped in,Now dip your left hand in container A and the right hand in container B.
+Paheli,Person,Him,Person,Told,Paheli told him that India has adopted the celsius scale and we should read that scale.
+India,Country,Celsius scale,Measurement scale,Adopted,Paheli told him that India has adopted the celsius scale and we should read that scale.
+We,Person,Celsius scale,Measurement scale,Read on,Paheli told him that India has adopted the celsius scale and we should read that scale.
+The,Article,Fahrenheit scale,Scale,Named as,The other scale with the range 94–108 degrees is the Fahrenheit scale (°F).
+94-108 degrees,Temperature range,Fahrenheit scale,Scale,Measured on,The other scale with the range 94–108 degrees is the Fahrenheit scale (°F).
+Boojho,Person,Left hand,Body part,Senses temperature of,"Boojho says,“My left hand tells me that the water in mug C is hot and the right hand tells me that the same water is cold."
+Boojho,Person,Right hand,Body part,Senses temperature of,"Boojho says,“My left hand tells me that the water in mug C is hot and the right hand tells me that the same water is cold."
+Water,Substance,Mug C,Container,Contained in,"Boojho says,“My left hand tells me that the water in mug C is hot and the right hand tells me that the same water is cold."
+Mug C,Container,Water,Substance,Contains,"Boojho says,“My left hand tells me that the water in mug C is hot and the right hand tells me that the same water is cold."
+Thermometer,Instrument,Care,Action,Handle with, Handle the thermometer with care.
+Thermometer,Instrument,Bulb,Part of instrument,Connected to, Don’t hold the thermometer by the bulb while reading it.
+Chloroplasts,Organelle,plant cells,Cell type,Located in,(shown by smaller marks) between these marks.
+Chloroplasts,Organelle,Thylakoids,Membrane,Contains,(shown by smaller marks) between these marks.
+Photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,(shown by smaller marks) between these marks.
+Thylakoids,Membrane,Chloroplasts,Organelle,within,(shown by smaller marks) between these marks.
+Light-dependent reactions,Biological process,Thylakoids,Membrane,Occur in,(shown by smaller marks) between these marks.
+Thermometer,Instrument,Antiseptic solution,Solution,Washed with,"Wash the thermometer, preferably with an antiseptic solution."
+Ensure,Action,Temperature,Physical quantity,Below,Ensure that it falls below 35°C.
+Thermometer,Instrument,Bulb,Component,Located in,Now place the bulb of the thermometer Fig. 3.3  Correct method of reading a clinical thermometer under your tongue.
+Bulb,Component,Thermometer,Instrument,Part of,Now place the bulb of the thermometer Fig. 3.3  Correct method of reading a clinical thermometer under your tongue.
+Tongue,Body part,Person,Living being,Located under,Now place the bulb of the thermometer Fig. 3.3  Correct method of reading a clinical thermometer under your tongue.
+Thermometer,Instrument,Not specified,Not specified,Not applicable,"After one minute, take the thermometer out and note the reading."
+Body temperature,Physical quantity,Not applicable,Not applicable,Not applicable,This is your body temperature.
+Temperature,Physical quantity,Unit,Measurement unit,Measured in,"The temperature should always be stated with its unit, °C."
+Human body,Organism,Temperature,Physical quantity,has,The normal temperature of human body is 37°C.
+Temperature,Physical quantity,37°C,Unit of measurement,is normal for,The normal temperature of human body is 37°C.
+Table 3.2,Data table,Body temperature,Physical quantity,Contains,Activity 3.3 Measure the body temperature of some of your friends (at least 10) with a Table 3.2: Body temperature of some persons Name Temperature (°C) Paheli measured her body temperature.
+Friends,Person,Body temperature,Physical quantity,Measured,Activity 3.3 Measure the body temperature of some of your friends (at least 10) with a Table 3.2: Body temperature of some persons Name Temperature (°C) Paheli measured her body temperature.
+Paheli,Person,Body temperature,Physical quantity,Measured her own,Activity 3.3 Measure the body temperature of some of your friends (at least 10) with a Table 3.2: Body temperature of some persons Name Temperature (°C) Paheli measured her body temperature.
+She,Person,Temperature,Physical quantity,Measured,She got worried as it was not exactly 37°C.
+Temperature,Physical quantity,37°C,Unit of measurement,Expected to be,She got worried as it was not exactly 37°C.
+Person,Living being,Temperature,Physical quantity,Has,The temperature of every person may not be 37°C.
+37°C,Physical quantity,Person,Living being,May not be,The temperature of every person may not be 37°C.
+Normal temperature,Physical quantity,Average body temperature,Physical quantity,Same as,"Actually, what we call normal temperature is the average body temperature of a large number of healthy persons."
+Normal temperature,Physical quantity,Healthy persons,Person,Measured from,"Actually, what we call normal temperature is the average body temperature of a large number of healthy persons."
+Average body temperature,Physical quantity,Healthy persons,Person,Measured from,"Actually, what we call normal temperature is the average body temperature of a large number of healthy persons."
+Clinical thermometer,Instrument,Human body,Organism,Measures temperature of,The clinical thermometer is designed to measure the temperature of human body only.
+Human body,Organism,Temperature,Physical quantity,Has,The temperature of human body normally does not go below 35oC or above 42oC.
+Temperature,Physical quantity,35oC,Unit of measurement,Does not go below,The temperature of human body normally does not go below 35oC or above 42oC.
+Temperature,Physical quantity,42oC,Unit of measurement,Does not go above,The temperature of human body normally does not go below 35oC or above 42oC.
+Thermometer,Instrument,Range,Measurement,Has,That is the reason that this thermometer has the range 35oC to 42oC.
+Thermometers,Instrument,Different types,Type,Used for,Different types of thermometers are used for different purposes.
+Different purposes,Purpose,Thermometers,Instrument,Used for,Different types of thermometers are used for different purposes.
+Maximum temperature,Temperature,Previous day,Time period,Reported in,"The maximum and minimum temperatures of the previous day, reported in weather reports, are measured by a thermometer called the m a x i m u m - m i n i m u m thermometer."
+Minimum temperature,Temperature,Previous day,Time period,Reported in,"The maximum and minimum temperatures of the previous day, reported in weather reports, are measured by a thermometer called the m a x i m u m - m i n i m u m thermometer."
+Weather reports,Report type,Maximum-minimum thermometer,Thermometer type,Used to measure,"The maximum and minimum temperatures of the previous day, reported in weather reports, are measured by a thermometer called the m a x i m u m - m i n i m u m thermometer."
+Clinical thermometer,Instrument,Temperature,Physical quantity,Measures,CAUTION Do not use a clinical thermometer for measuring the temperature of any object other than the human body.
+Human body,Object,Clinical thermometer,Instrument,Used for,CAUTION Do not use a clinical thermometer for measuring the temperature of any object other than the human body.
+Other objects,Object,Clinical thermometer,Instrument,Not recommended for measuring,CAUTION Do not use a clinical thermometer for measuring the temperature of any object other than the human body.
+CAUTION,Warning,Clinical thermometer,Instrument,Specifically mentioned,CAUTION Do not use a clinical thermometer for measuring the temperature of any object other than the human body.
+Thermometer,Instrument,Sun,Celestial body,Avoid keeping in,Also avoid keeping the thermometer in the sun or near a flame.
+Thermometer,Instrument,Flame,Heat source,Avoid keeping near,Also avoid keeping the thermometer in the sun or near a flame.
+Laboratory thermometer,Instrument,Range,-,Has,The range of a laboratory thermometer is generally from –10°C to 110°C (Fig. 3.4).
+-10°C,Temperature,Laboratory thermometer,Instrument,Minimum value of,The range of a laboratory thermometer is generally from –10°C to 110°C (Fig. 3.4).
+110°C,Temperature,Laboratory thermometer,Instrument,Maximum value of,The range of a laboratory thermometer is generally from –10°C to 110°C (Fig. 3.4).
+Fig. 3.4,Figure,Laboratory thermometer,Instrument,Associated with,The range of a laboratory thermometer is generally from –10°C to 110°C (Fig. 3.4).
+Thermometer,Instrument,Usage,Activity,Used for,Let us now learn how this thermometer is used.
+Tap water,Water type,Beaker,Container,in,Activity 3.4 Take some tap water in a beaker or a mug.
+Thermometer,Instrument,Water,Liquid,Immersed in,Dip the thermometer in water so that the bulb is immersed in water but does not touch the bottom or the sides of the container.
+Bulb,Part of thermometer,Water,Liquid,Immersed in,Dip the thermometer in water so that the bulb is immersed in water but does not touch the bottom or the sides of the container.
+Bulb,Part of thermometer,Container,Object,Not touching bottom or sides,Dip the thermometer in water so that the bulb is immersed in water but does not touch the bottom or the sides of the container.
+Laboratory thermometer,Instrument,Other objects,Object,Measure temperature of,Fig. 3.4  A laboratory thermometer 3.3 LABORATORY THERMOMETER How do we measure the temperature of other objects?
+Hot milk,Substance,Clinical thermometer,Instrument,Measured using,He wanted to measure the temperature of hot milk using a clinical thermometer.
+Temperature,Physical quantity,Hot milk,Substance,Measured,He wanted to measure the temperature of hot milk using a clinical thermometer.
+Beaker,Mug,Container,Object type,in,Activity 3.5 Take some hot water in a beaker or a mug.
+Thermometer,Instrument,Water,Liquid,In,Dip the thermometer in water.
+Temperature,Physical quantity,Thermometer,Measuring instrument,Measured by,This means that the temperature must be read while the thermometer is in water.
+Thermometer,Measuring instrument,Water,Liquid,Immersed in,This means that the temperature must be read while the thermometer is in water.
+Thermometer,Instrument,Mouth,Body part,Located in,"You may recall that while taking your own temperature, you have to take the thermometer out of your mouth to note the reading."
+Temperature,Physical quantity,Body,Organism,Measured in,"You may recall that while taking your own temperature, you have to take the thermometer out of your mouth to note the reading."
+bulb,Object,substance,Object,Surrounded by,(Fig. 3.5)  bulb should be surrounded from all sides by the substance of which the temperature is to be measured.
+temperature,Physical quantity,substance,Object,Measured,(Fig. 3.5)  bulb should be surrounded from all sides by the substance of which the temperature is to be measured.
+Bulb,Object,Surface,Object,Should not touch,The bulb should not touch the surface of the container.
+Water,Substance,Laboratory thermometer,Instrument,Measured with,Fig. 3.5  Measuring temperature of water with a laboratory thermometer Boojho now understands why clinical thermometer cannot be used to measure high temperatures.
+Boojho,Person,Clinical thermometer,Instrument,Cannot be used to measure high temperatures,Fig. 3.5  Measuring temperature of water with a laboratory thermometer Boojho now understands why clinical thermometer cannot be used to measure high temperatures.
+Chloroplasts,Organelle,plant cells,Cell type,Located in,Note the reading.
+photosynthesis,Biological process,Chloroplasts,Organelle,Occurs in,Note the reading.
+thylakoids,Membrane,Chloroplasts,Organelle,within,Note the reading.
+light-dependent reactions,Biological process,thylakoids,Membrane,Occur in,Note the reading.
+Water,Substance,Temperature,Physical property,of,This is the temperature of water at that time.
+Boojho,Person,Mercury,Element,Related to,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Thermometer,Instrument,Bulb,Component,Part of,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Bulb,Component,Mercury,Element,Contains,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Thermometer,Instrument,Object,Physical entity,In contact with,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Mercury,Element,Object,Physical entity,In contact with,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Level of mercury,Physical property,Bulb,Component,Measured by,Boojho wonders why the level of mercury should change at all when the bulb of the thermometer is brought in contact with another object?
+Metal,Material,Rod,Shape,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+Metal,Material,Flat strip,Shape,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+Aluminium,Metal,Rod,Material,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+Aluminium,Metal,Flat strip,Material,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+Iron,Metal,Rod,Material,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+Iron,Metal,Flat strip,Material,Made of,"Activity 3.6 Take a rod or flat strip of a metal, say of aluminium or iron."
+These,Pronoun,Pieces,Noun,Described by,These pieces should be at nearly equal distances (Fig. 3.7).
+Nearly equal distances,Noun phrase,Pieces,Noun,At,These pieces should be at nearly equal distances (Fig. 3.7).
+Rod,Object,Stand,Object,Clamped to,Clamp the rod to a stand.
+Rod,Object,Bricks,Object,Between,"If you do not find a stand, you can   put one end of the rod in between bricks."
+Pan,Object,Fire,Object,Removed from,"When the pan is removed from the fire, it slowly cools down."
+Pan,Object,Cooling down,Process,Undergoes,"When the pan is removed from the fire, it slowly cools down."
+Pan,Object,Heat,Physical property,Transferred from,The heat is transferred from the pan to the surroundings.
