@@ -1,0 +1,101 @@
+entity1,entity_1_type,entity2,entity_2_type,relation,sentence
+Food,Noun,Living organisms,Noun,Essential for,1Nutrition in Plants I n Class VI you learnt that food is essential for all living organisms.
+Carbohydrates,Nutrient,Food,Consumable item,Component of,"You also learnt that carbohydrates, proteins, fats, vitamins and minerals are components of food."
+Proteins,Nutrient,Food,Consumable item,Component of,"You also learnt that carbohydrates, proteins, fats, vitamins and minerals are components of food."
+Fats,Nutrient,Food,Consumable item,Component of,"You also learnt that carbohydrates, proteins, fats, vitamins and minerals are components of food."
+Vitamins,Nutrient,Food,Consumable item,Component of,"You also learnt that carbohydrates, proteins, fats, vitamins and minerals are components of food."
+Minerals,Nutrient,Food,Consumable item,Component of,"You also learnt that carbohydrates, proteins, fats, vitamins and minerals are components of food."
+Components of food,Entity,Nutrients,Entity,called,These components of food are called nutrients and are necessary for our body.
+Nutrients,Entity,Body,Entity,Necessary for,These components of food are called nutrients and are necessary for our body.
+Living organisms,Entity,Food,Entity,Require,All living organisms require food.
+Plants,Organism type,Food,Nutrient,Can synthesise,Plants can synthesise food for themselves  but animals including humans cannot.
+Animals,Organism type,Food,Nutrient,Cannot synthesise,Plants can synthesise food for themselves  but animals including humans cannot.
+Humans,Organism type,Food,Nutrient,Cannot synthesise,Plants can synthesise food for themselves  but animals including humans cannot.
+Animals,Organism,Plants,Organism,Source of food,They get it from plants or animals that eat plants.
+Plants,Organism,Animals,Organism,Not applicable,They get it from plants or animals that eat plants.
+Humans,Species,Plants,Species,Dependent on,"Thus, humans and animals are directly or indirectly dependent on plants."
+Animals,Species,Plants,Species,Dependent on,"Thus, humans and animals are directly or indirectly dependent on plants."
+Plants,Organism,Water,Chemical compound,Uses for preparing food,"1.1 MODE OF NUTRITION IN PLANTS Plants are the only organisms that can prepare food for themselves by using water, carbon dioxide and minerals."
+Plants,Organism,Carbon dioxide,Chemical compound,Uses for preparing food,"1.1 MODE OF NUTRITION IN PLANTS Plants are the only organisms that can prepare food for themselves by using water, carbon dioxide and minerals."
+Plants,Organism,Minerals,Chemical compound,Uses for preparing food,"1.1 MODE OF NUTRITION IN PLANTS Plants are the only organisms that can prepare food for themselves by using water, carbon dioxide and minerals."
+Plants,Organism,Food,Product,Prepares for itself,"1.1 MODE OF NUTRITION IN PLANTS Plants are the only organisms that can prepare food for themselves by using water, carbon dioxide and minerals."
+Raw materials,Unknown,Surroundings,Unknown,Present in,The raw materials are present in their surroundings.
+Nutrients,Substance,Living organisms,Organism,Enable,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Living organisms,Organism,Bodies,Body part,Build,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Living organisms,Organism,Growth,Biological process,Enable,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Living organisms,Organism,Damaged parts,Body part,Repair,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Nutrients,Substance,Energy,Physical quantity,Provide,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Living organisms,Organism,Life processes,Biological process,Carry out,"The nutrients enable living organisms to build their bodies, to grow, to repair damaged parts of their bodies and provide the energy to carry out life processes."
+Organism,Living being,Food,Nutrient,Taken by,Nutrition is the mode of taking food by an organism and its utilisation by the body.
+Body,Organism's body,Nutrition,Process,Utilises,Nutrition is the mode of taking food by an organism and its utilisation by the body.
+Organisms,Living being,Autotrophic nutrition,Mode of nutrition,Involves,The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic (auto = self; trophos = nourishment) nutrition.
+Autotrophic nutrition,Mode of nutrition,Food,Product,Produces,The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic (auto = self; trophos = nourishment) nutrition.
+Simple substances,Chemical compounds,Autotrophic nutrition,Mode of nutrition,Used to make food,The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic (auto = self; trophos = nourishment) nutrition.
+Auto,Prefix,Autotrophic nutrition,Mode of nutrition,Means self,The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic (auto = self; trophos = nourishment) nutrition.
+Trophos,Word root,Autotrophic nutrition,Mode of nutrition,Means nourishment,The mode of nutrition in which organisms make food themselves from simple substances is called autotrophic (auto = self; trophos = nourishment) nutrition.
+Plants,Organism,Autotrophs,Classification,Belongs to,"Therefore, plants are called autotrophs."
+Animals,Organism,Plants,Organism,Interact through food consumption.,Animals and most other organisms take in food prepared by plants.
+They,Pronoun,Heterotrophs,Organism type,Referred to as,They are called heterotrophs (heteros = other).
+Boojho,Person,Plants,Organism,Interested in,Boojho wants to know how plants prepare their own food.
+Plants,Organism,Food,Product,Prepare,Boojho wants to know how plants prepare their own food.
+Leaves,Plant part,Food factories,Plant structure,of,1.2 PHOTOSYNTHESIS — FOOD MAKING PROCESS IN PLANTS Leaves are the food factories of plants.
+Plants,Organism,Leaves,Plant part,have,1.2 PHOTOSYNTHESIS — FOOD MAKING PROCESS IN PLANTS Leaves are the food factories of plants.
+Raw materials,Substance,Leaf,Plant part,Must reach,"Therefore, all the raw materials must reach the leaf."
+Water,Compound,Soil,Substance,Present in,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Minerals,Compound,Soil,Substance,Present in,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Roots,Plant organ,Water,Compound,Absorbs,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Roots,Plant organ,Minerals,Compound,Absorbs,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Leaves,Plant organ,Water,Compound,Transported to,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Leaves,Plant organ,Minerals,Compound,Transported to,Water and minerals present in the soil are absorbed by the roots and transported to the leaves.
+Carbon dioxide,Gas,Air,Atmosphere,Taken from,"Carbon dioxide from air is taken in Paheli wants to know why our body cannot make food from carbon dioxide, water and minerals like plants do."
+Cells,Cell type,Leaves,Plant part,Present on,Cells through the tiny pores present on the surface of leaves.
+Pores,Structural feature,Leaves,Plant part,Present on surface of,Cells through the tiny pores present on the surface of leaves.
+Pores,Structure,Guard cells,Cell type,Surrounded by,These pores are surrounded by ‘guard cells’.
+Pores,Structure,Stomata,Structure,Called,Such pores are called stomata [Fig. 1.2 (c)].
+Water,Compound,Leaves,Plant part,Transported to,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Minerals,Compound,Leaves,Plant part,Transported to,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Vessels,Plant tissue,Root,Plant part,Run throughout,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Vessels,Plant tissue,Stem,Plant part,Run throughout,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Vessels,Plant tissue,Branches,Plant part,Run throughout,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Vessels,Plant tissue,Leaves,Plant part,Run throughout,"Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the leaves."
+Transport of materials,Biological process,Plants,Organism,Occurs in,You will learn more about transport of materials in plants in Chapter 7.
+Leaves,Plant part,Chlorophyll,Pigment,Contains,The leaves have a green pigment called chlorophyll.
+Leaves,Plant part,Sunlight,Energy source,Captured by,It helps leaves to capture the energy of the sunlight.
+Energy,Physical entity,Food,Physical entity,Used to synthesise,This energy is used to synthesise (prepare) food from carbon dioxide and water.
+Carbon dioxide,Chemical compound,Food,Physical entity,Used to prepare,This energy is used to synthesise (prepare) food from carbon dioxide and water.
+Water,Chemical compound,Food,Physical entity,Used to prepare,This energy is used to synthesise (prepare) food from carbon dioxide and water.
+Sunlight,Physical entity,Photosynthesis,Biological process,Required for,"Since the synthesis of food occurs in the presence of sunlight, it is called photosynthesis (Photo: light; synthesis : to combine)."
+Food,Physical entity,Photosynthesis,Biological process,Product of,"Since the synthesis of food occurs in the presence of sunlight, it is called photosynthesis (Photo: light; synthesis : to combine)."
+Photosynthesis,Biological process,Sunlight,Physical entity,Required for,"Since the synthesis of food occurs in the presence of sunlight, it is called photosynthesis (Photo: light; synthesis : to combine)."
+Chlorophyll,Pigment,Photosynthesis,Biological process,Necessary for,"So we find that chlorophyll, sunlight, carbon dioxide and water are necessary to carry out the process of photosynthesis."
+Sunlight,Energy source,Photosynthesis,Biological process,Necessary for,"So we find that chlorophyll, sunlight, carbon dioxide and water are necessary to carry out the process of photosynthesis."
+Carbon dioxide,Gas,Photosynthesis,Biological process,Necessary for,"So we find that chlorophyll, sunlight, carbon dioxide and water are necessary to carry out the process of photosynthesis."
+Water,Molecule,Photosynthesis,Biological process,Necessary for,"So we find that chlorophyll, sunlight, carbon dioxide and water are necessary to carry out the process of photosynthesis."
+Solar energy,Energy type,Leaves,Plant part,Captured by,The solar energy is captured by the leaves and stored in the plant in the form of food.
+Leaves,Plant part,Plant,Organism,Part of,The solar energy is captured by the leaves and stored in the plant in the form of food.
+Plant,Organism,Food,Product,Stored as,The solar energy is captured by the leaves and stored in the plant in the form of food.
+Sun,Star,Energy,Physical quantity,Source of,"Thus, sun is the ultimate source of energy for all living organisms."
+Life on earth,Concept,Photosynthesis,Biological process,Dependent on,Can you imagine life on earth in the absence of photosynthesis! In the absence of photosynthesis there would not be any food.
+Living organisms,Organism,Food,Product,Depends on,The survival of almost all living organisms directly or indirectly depends upon the food made by the plants.
+Plants,Organism,Food,Product,Produce,The survival of almost all living organisms directly or indirectly depends upon the food made by the plants.
+Oxygen,Element,Survival,Concept,Essential for,"Besides, oxygen which is essential for the survival You have seen that buildings are made of bricks."
+Buildings,Structure,Bricks,Building material,Made of,"Besides, oxygen which is essential for the survival You have seen that buildings are made of bricks."
+Nucleus,Organelle,Cytoplasm,Cell component,Surrounded by,The nucleus is surrounded by a jelly-like substance called cytoplasm.
+Cell membrane,Cell component,Cytoplasm,Cell component,Surrounds,Cell membrane Cytoplasm Nucleus Fig. 1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves.
+Cytoplasm,Cell component,Nucleus,Cell component,Surrounds,Cell membrane Cytoplasm Nucleus Fig. 1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves.
+Roots,Plant organ,Water,Chemical substance,Absorbed by,Cell membrane Cytoplasm Nucleus Fig. 1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves.
+Roots,Plant organ,Minerals,Chemical substance,Absorbed by,Cell membrane Cytoplasm Nucleus Fig. 1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves.
+Roots,Plant organ,Leaves,Plant organ,Transported to,Cell membrane Cytoplasm Nucleus Fig. 1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves.
+Green parts of the plant,Plant part,Photosynthesis,Biological process,Occurs in,"Rationalised 2023-24  NUTRITION IN PLANTS 3 Besides leaves, photosynthesis also takes place in other green parts of the plant — in green stems and green branches."
+Leaves,Plant part,Photosynthesis,Biological process,Occurs in,"Rationalised 2023-24  NUTRITION IN PLANTS 3 Besides leaves, photosynthesis also takes place in other green parts of the plant — in green stems and green branches."
+Green stems,Plant part,Photosynthesis,Biological process,Occurs in,"Rationalised 2023-24  NUTRITION IN PLANTS 3 Besides leaves, photosynthesis also takes place in other green parts of the plant — in green stems and green branches."
+Green branches,Plant part,Photosynthesis,Biological process,Occurs in,"Rationalised 2023-24  NUTRITION IN PLANTS 3 Besides leaves, photosynthesis also takes place in other green parts of the plant — in green stems and green branches."
+Desert plants,Plant type,Scale-like leaves,Leaf type,Have,The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.
+Desert plants,Plant type,Spine-like leaves,Leaf type,Have,The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.
+Scale-like leaves,Leaf type,Water,Substance,Reduce loss of,The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.
+Spine-like leaves,Leaf type,Water,Substance,Reduce loss of,The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.
+Transpiration,Biological process,Water,Substance,Loss by,The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.
+Organisms,Living beings,Photosynthesis,Biological process,Produces,of all organisms is produced during photosynthesis.
+Photosynthesis,Biological process,Earth,Planet,Occurs on,"In the absence of photosynthesis, life would be impossible on the earth."
+Life,Concept,Earth,Planet,Depends on,"In the absence of photosynthesis, life would be impossible on the earth."
+Earth,Planet,Photosynthesis,Biological process,Necessary for,"In the absence of photosynthesis, life would be impossible on the earth."
