@@ -87,9 +87,7 @@ def iterate_files(root_dir):
         
     
 if __name__ == "__main__":
-    # iterate_files(r'Neo4j_Data//Data')
-    db = Neo4j(host, password,user)
-    db.process_data_after_population()
+    iterate_files(r'Neo4j_Data//Data')
     
     
     
