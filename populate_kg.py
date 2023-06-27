@@ -87,7 +87,7 @@ def iterate_files(root_dir):
         
     
 if __name__ == "__main__":
-    iterate_files(r'Neo4j_Data//Data')
+    iterate_files(r'Neo4j_Data/Data')
     
     
     
