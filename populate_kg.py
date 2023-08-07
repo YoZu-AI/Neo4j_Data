@@ -1,6 +1,5 @@
 from neo4j import GraphDatabase
 import os
-import pandas as pd
 #from config import neo4j_data
 host = os.getenv('neo4j_host', default='neo4j://localhost:7687')
 password = os.getenv('neo4j_pass', default='neo4j')
